@@ -1,0 +1,74 @@
+{
+  "Auvergne-Rhône-Alpes": {
+    "decTree__max_depth": 8,
+    "decTree__max_features": null,
+    "pca__nComp": -1,
+    "nbLstCons": 3
+  },
+  "Bourgogne-Franche-Comté": {
+    "decTree__max_depth": 8,
+    "decTree__max_features": null,
+    "pca__nComp": -1,
+    "nbLstCons": 3
+  },
+  "Bretagne": {
+    "decTree__max_depth": 9,
+    "decTree__max_features": null,
+    "pca__nComp": -1,
+    "nbLstCons": 3
+  },
+  "Centre-Val de Loire": {
+    "decTree__max_depth": 8,
+    "decTree__max_features": null,
+    "pca__nComp": -1,
+    "nbLstCons": 7
+  },
+  "Grand Est": {
+    "decTree__max_depth": 7,
+    "decTree__max_features": null,
+    "pca__nComp": -1,
+    "nbLstCons": 3
+  },
+  "Hauts-de-France": {
+    "decTree__max_depth": 7,
+    "decTree__max_features": null,
+    "pca__nComp": -1,
+    "nbLstCons": 3
+  },
+  "Ile-de-France": {
+    "decTree__max_depth": 8,
+    "decTree__max_features": null,
+    "pca__nComp": -1,
+    "nbLstCons": 3
+  },
+  "Nouvelle-Aquitaine": {
+    "decTree__max_depth": 8,
+    "decTree__max_features": null,
+    "pca__nComp": -1,
+    "nbLstCons": 7
+  },
+  "Normandie": {
+    "decTree__max_depth": 7,
+    "decTree__max_features": null,
+    "pca__nComp": -1,
+    "nbLstCons": 3
+  },
+  "Occitanie": {
+    "decTree__max_depth": 8,
+    "decTree__max_features": null,
+    "pca__nComp": -1,
+    "nbLstCons": 7
+  },
+  "Pays de la Loire": {
+    "decTree__max_depth": 8,
+    "decTree__max_features": null,
+    "pca__nComp": -1,
+    "nbLstCons": 3
+  },
+  "PACA": {
+    "decTree__max_depth": 8,
+    "decTree__max_features": null,
+    "pca__nComp": -1,
+    "nbLstCons": 3
+  }
+}

@@ -1,0 +1,2534 @@
+{
+  "Auvergne-Rhône-Alpes": [
+    {
+      "bestIndex": 7,
+      "allResults": [
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.954531,
+          "meanTrainScore": 0.952026,
+          "meanFitTime": 0.030391,
+          "meanTestTime": 0.017815
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.978194,
+          "meanTrainScore": 0.980568,
+          "meanFitTime": 0.077155,
+          "meanTestTime": 0.018754
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.937002,
+          "meanTrainScore": 0.933569,
+          "meanFitTime": 0.038209,
+          "meanTestTime": 0.018615
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.96583,
+          "meanTrainScore": 0.972301,
+          "meanFitTime": 0.050063,
+          "meanTestTime": 0.016993
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.937445,
+          "meanTrainScore": 0.936166,
+          "meanFitTime": 0.036745,
+          "meanTestTime": 0.020014
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.969692,
+          "meanTrainScore": 0.975431,
+          "meanFitTime": 0.030938,
+          "meanTestTime": 0.009052
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.958521,
+          "meanTrainScore": 0.960129,
+          "meanFitTime": 0.018052,
+          "meanTestTime": 0.021373
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.978273,
+          "meanTrainScore": 0.981732,
+          "meanFitTime": 0.11238,
+          "meanTestTime": 0.030547
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.932503,
+          "meanTrainScore": 0.934595,
+          "meanFitTime": 0.020253,
+          "meanTestTime": 0.049842
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.965961,
+          "meanTrainScore": 0.97116,
+          "meanFitTime": 0.038835,
+          "meanTestTime": 0.014437
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.939157,
+          "meanTrainScore": 0.942224,
+          "meanFitTime": 0.021741,
+          "meanTestTime": 0.027276
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.970024,
+          "meanTrainScore": 0.974442,
+          "meanFitTime": 0.035163,
+          "meanTestTime": 0.014085
+        }
+      ]
+    }
+  ],
+  "Bourgogne-Franche-Comté": [
+    {
+      "bestIndex": 7,
+      "allResults": [
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.939891,
+          "meanTrainScore": 0.935962,
+          "meanFitTime": 0.020733,
+          "meanTestTime": 0.034369
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.972552,
+          "meanTrainScore": 0.972892,
+          "meanFitTime": 0.10279,
+          "meanTestTime": 0.016917
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.910596,
+          "meanTrainScore": 0.906353,
+          "meanFitTime": 0.042674,
+          "meanTestTime": 0.019486
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.959647,
+          "meanTrainScore": 0.958456,
+          "meanFitTime": 0.068636,
+          "meanTestTime": 0.018078
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.917687,
+          "meanTrainScore": 0.914647,
+          "meanFitTime": 0.024524,
+          "meanTestTime": 0.020112
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.963707,
+          "meanTrainScore": 0.964576,
+          "meanFitTime": 0.050296,
+          "meanTestTime": 0.012794
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.946843,
+          "meanTrainScore": 0.947568,
+          "meanFitTime": 0.031439,
+          "meanTestTime": 0.024218
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.973124,
+          "meanTrainScore": 0.974509,
+          "meanFitTime": 0.108504,
+          "meanTestTime": 0.011437
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.913403,
+          "meanTrainScore": 0.91549,
+          "meanFitTime": 0.034752,
+          "meanTestTime": 0.018972
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.958598,
+          "meanTrainScore": 0.960018,
+          "meanFitTime": 0.047519,
+          "meanTestTime": 0.016543
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.919263,
+          "meanTrainScore": 0.924774,
+          "meanFitTime": 0.02491,
+          "meanTestTime": 0.015629
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.962489,
+          "meanTrainScore": 0.963894,
+          "meanFitTime": 0.044596,
+          "meanTestTime": 0.010463
+        }
+      ]
+    }
+  ],
+  "Bretagne": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.939434,
+          "meanTrainScore": 0.939851,
+          "meanFitTime": 0.019627,
+          "meanTestTime": 0.018556
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.973338,
+          "meanTrainScore": 0.979783,
+          "meanFitTime": 0.066285,
+          "meanTestTime": 0.029961
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.912131,
+          "meanTrainScore": 0.916693,
+          "meanFitTime": 0.022541,
+          "meanTestTime": 0.044561
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.967804,
+          "meanTrainScore": 0.971878,
+          "meanFitTime": 0.039148,
+          "meanTestTime": 0.018286
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.919794,
+          "meanTrainScore": 0.922423,
+          "meanFitTime": 0.020262,
+          "meanTestTime": 0.015877
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.969168,
+          "meanTrainScore": 0.976137,
+          "meanFitTime": 0.038213,
+          "meanTestTime": 0.013951
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.945675,
+          "meanTrainScore": 0.949969,
+          "meanFitTime": 0.017129,
+          "meanTestTime": 0.01225
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.97312,
+          "meanTrainScore": 0.980885,
+          "meanFitTime": 0.117262,
+          "meanTestTime": 0.010868
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.908183,
+          "meanTrainScore": 0.920388,
+          "meanFitTime": 0.020367,
+          "meanTestTime": 0.060699
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.966101,
+          "meanTrainScore": 0.972307,
+          "meanFitTime": 0.037884,
+          "meanTestTime": 0.027296
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.91434,
+          "meanTrainScore": 0.926877,
+          "meanFitTime": 0.021866,
+          "meanTestTime": 0.026262
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.969843,
+          "meanTrainScore": 0.975076,
+          "meanFitTime": 0.038347,
+          "meanTestTime": 0.013207
+        }
+      ]
+    }
+  ],
+  "Centre-Val de Loire": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.941,
+          "meanTrainScore": 0.94744,
+          "meanFitTime": 0.019511,
+          "meanTestTime": 0.020105
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.965206,
+          "meanTrainScore": 0.980849,
+          "meanFitTime": 0.074868,
+          "meanTestTime": 0.014124
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.918785,
+          "meanTrainScore": 0.929309,
+          "meanFitTime": 0.021828,
+          "meanTestTime": 0.015481
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.954504,
+          "meanTrainScore": 0.972484,
+          "meanFitTime": 0.042146,
+          "meanTestTime": 0.015352
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.927621,
+          "meanTrainScore": 0.934396,
+          "meanFitTime": 0.023776,
+          "meanTestTime": 0.012955
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.958018,
+          "meanTrainScore": 0.975435,
+          "meanFitTime": 0.036121,
+          "meanTestTime": 0.011343
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.94578,
+          "meanTrainScore": 0.953635,
+          "meanFitTime": 0.015709,
+          "meanTestTime": 0.013031
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.96506,
+          "meanTrainScore": 0.98182,
+          "meanFitTime": 0.08674,
+          "meanTestTime": 0.015601
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.921672,
+          "meanTrainScore": 0.932996,
+          "meanFitTime": 0.025804,
+          "meanTestTime": 0.032367
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.956048,
+          "meanTrainScore": 0.973856,
+          "meanFitTime": 0.047944,
+          "meanTestTime": 0.015523
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.921053,
+          "meanTrainScore": 0.93314,
+          "meanFitTime": 0.020455,
+          "meanTestTime": 0.029122
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.957341,
+          "meanTrainScore": 0.974712,
+          "meanFitTime": 0.037799,
+          "meanTestTime": 0.012333
+        }
+      ]
+    }
+  ],
+  "Grand Est": [
+    {
+      "bestIndex": 7,
+      "allResults": [
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.933554,
+          "meanTrainScore": 0.931535,
+          "meanFitTime": 0.018127,
+          "meanTestTime": 0.027591
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.968633,
+          "meanTrainScore": 0.970504,
+          "meanFitTime": 0.063912,
+          "meanTestTime": 0.037239
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.899667,
+          "meanTrainScore": 0.900476,
+          "meanFitTime": 0.027926,
+          "meanTestTime": 0.057925
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.951773,
+          "meanTrainScore": 0.954852,
+          "meanFitTime": 0.043554,
+          "meanTestTime": 0.022344
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.908065,
+          "meanTrainScore": 0.90805,
+          "meanFitTime": 0.022121,
+          "meanTestTime": 0.023208
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.956985,
+          "meanTrainScore": 0.960889,
+          "meanFitTime": 0.048428,
+          "meanTestTime": 0.015182
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.938851,
+          "meanTrainScore": 0.943062,
+          "meanFitTime": 0.016388,
+          "meanTestTime": 0.015276
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.968875,
+          "meanTrainScore": 0.972027,
+          "meanFitTime": 0.087004,
+          "meanTestTime": 0.015895
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.897444,
+          "meanTrainScore": 0.907997,
+          "meanFitTime": 0.027073,
+          "meanTestTime": 0.03945
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.952642,
+          "meanTrainScore": 0.955887,
+          "meanFitTime": 0.053866,
+          "meanTestTime": 0.01645
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.904879,
+          "meanTrainScore": 0.917616,
+          "meanFitTime": 0.022269,
+          "meanTestTime": 0.015274
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.957254,
+          "meanTrainScore": 0.960024,
+          "meanFitTime": 0.048899,
+          "meanTestTime": 0.013788
+        }
+      ]
+    }
+  ],
+  "Hauts-de-France": [
+    {
+      "bestIndex": 7,
+      "allResults": [
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.932227,
+          "meanTrainScore": 0.946081,
+          "meanFitTime": 0.02377,
+          "meanTestTime": 0.020301
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.964888,
+          "meanTrainScore": 0.977979,
+          "meanFitTime": 0.067714,
+          "meanTestTime": 0.018912
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.904585,
+          "meanTrainScore": 0.925711,
+          "meanFitTime": 0.024203,
+          "meanTestTime": 0.019454
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.947801,
+          "meanTrainScore": 0.967108,
+          "meanFitTime": 0.040365,
+          "meanTestTime": 0.015869
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.910168,
+          "meanTrainScore": 0.929645,
+          "meanFitTime": 0.025145,
+          "meanTestTime": 0.024064
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.952182,
+          "meanTrainScore": 0.970835,
+          "meanFitTime": 0.040821,
+          "meanTestTime": 0.009811
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.939968,
+          "meanTrainScore": 0.955671,
+          "meanFitTime": 0.020074,
+          "meanTestTime": 0.037744
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.964917,
+          "meanTrainScore": 0.979393,
+          "meanFitTime": 0.134267,
+          "meanTestTime": 0.044702
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.902109,
+          "meanTrainScore": 0.929937,
+          "meanFitTime": 0.023697,
+          "meanTestTime": 0.073482
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.948098,
+          "meanTrainScore": 0.968271,
+          "meanFitTime": 0.123241,
+          "meanTestTime": 0.019172
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.902729,
+          "meanTrainScore": 0.929957,
+          "meanFitTime": 0.026849,
+          "meanTestTime": 0.039385
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.949633,
+          "meanTrainScore": 0.969236,
+          "meanFitTime": 0.051313,
+          "meanTestTime": 0.016032
+        }
+      ]
+    }
+  ],
+  "Ile-de-France": [
+    {
+      "bestIndex": 7,
+      "allResults": [
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.954706,
+          "meanTrainScore": 0.95653,
+          "meanFitTime": 0.018996,
+          "meanTestTime": 0.020157
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.98141,
+          "meanTrainScore": 0.9868,
+          "meanFitTime": 0.070264,
+          "meanTestTime": 0.036528
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.932635,
+          "meanTrainScore": 0.939916,
+          "meanFitTime": 0.020203,
+          "meanTestTime": 0.034586
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.971863,
+          "meanTrainScore": 0.979104,
+          "meanFitTime": 0.052752,
+          "meanTestTime": 0.015551
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.943696,
+          "meanTrainScore": 0.946446,
+          "meanFitTime": 0.020572,
+          "meanTestTime": 0.028675
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.975366,
+          "meanTrainScore": 0.981731,
+          "meanFitTime": 0.042926,
+          "meanTestTime": 0.013226
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.957909,
+          "meanTrainScore": 0.962466,
+          "meanFitTime": 0.016558,
+          "meanTestTime": 0.012651
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.982039,
+          "meanTrainScore": 0.987743,
+          "meanFitTime": 0.098031,
+          "meanTestTime": 0.017519
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.936823,
+          "meanTrainScore": 0.943466,
+          "meanFitTime": 0.023358,
+          "meanTestTime": 0.023353
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.973417,
+          "meanTrainScore": 0.980037,
+          "meanFitTime": 0.052495,
+          "meanTestTime": 0.01624
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.936823,
+          "meanTrainScore": 0.94396,
+          "meanFitTime": 0.02198,
+          "meanTestTime": 0.021532
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.974804,
+          "meanTrainScore": 0.981038,
+          "meanFitTime": 0.037823,
+          "meanTestTime": 0.015056
+        }
+      ]
+    }
+  ],
+  "Nouvelle-Aquitaine": [
+    {
+      "bestIndex": 7,
+      "allResults": [
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.952638,
+          "meanTrainScore": 0.946009,
+          "meanFitTime": 0.018857,
+          "meanTestTime": 0.018228
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.980397,
+          "meanTrainScore": 0.984034,
+          "meanFitTime": 0.075758,
+          "meanTestTime": 0.026721
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.936511,
+          "meanTrainScore": 0.928367,
+          "meanFitTime": 0.023394,
+          "meanTestTime": 0.033947
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.974076,
+          "meanTrainScore": 0.977183,
+          "meanFitTime": 0.040543,
+          "meanTestTime": 0.019475
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.941973,
+          "meanTrainScore": 0.933555,
+          "meanFitTime": 0.023864,
+          "meanTestTime": 0.018181
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.975775,
+          "meanTrainScore": 0.979111,
+          "meanFitTime": 0.041076,
+          "meanTestTime": 0.013455
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.955851,
+          "meanTrainScore": 0.952209,
+          "meanFitTime": 0.017508,
+          "meanTestTime": 0.012896
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.98096,
+          "meanTrainScore": 0.98485,
+          "meanFitTime": 0.077722,
+          "meanTestTime": 0.018138
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.937689,
+          "meanTrainScore": 0.931269,
+          "meanFitTime": 0.02105,
+          "meanTestTime": 0.017228
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.975119,
+          "meanTrainScore": 0.977648,
+          "meanFitTime": 0.052666,
+          "meanTestTime": 0.013616
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.937384,
+          "meanTrainScore": 0.931395,
+          "meanFitTime": 0.027021,
+          "meanTestTime": 0.014357
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.975059,
+          "meanTrainScore": 0.978187,
+          "meanFitTime": 0.039449,
+          "meanTestTime": 0.012212
+        }
+      ]
+    }
+  ],
+  "Normandie": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.944775,
+          "meanTrainScore": 0.954735,
+          "meanFitTime": 0.016859,
+          "meanTestTime": 0.008483
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.971369,
+          "meanTrainScore": 0.983693,
+          "meanFitTime": 0.130775,
+          "meanTestTime": 0.015104
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.925168,
+          "meanTrainScore": 0.939723,
+          "meanFitTime": 0.021144,
+          "meanTestTime": 0.029389
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.964743,
+          "meanTrainScore": 0.976745,
+          "meanFitTime": 0.061021,
+          "meanTestTime": 0.016716
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.932062,
+          "meanTrainScore": 0.943051,
+          "meanFitTime": 0.022548,
+          "meanTestTime": 0.028084
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.966918,
+          "meanTrainScore": 0.979034,
+          "meanFitTime": 0.042243,
+          "meanTestTime": 0.015483
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.948354,
+          "meanTrainScore": 0.961673,
+          "meanFitTime": 0.018601,
+          "meanTestTime": 0.031192
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.971166,
+          "meanTrainScore": 0.984794,
+          "meanFitTime": 0.072082,
+          "meanTestTime": 0.019372
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.926748,
+          "meanTrainScore": 0.942827,
+          "meanFitTime": 0.025117,
+          "meanTestTime": 0.021191
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.965149,
+          "meanTrainScore": 0.977552,
+          "meanFitTime": 0.054519,
+          "meanTestTime": 0.017494
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.926762,
+          "meanTrainScore": 0.942842,
+          "meanFitTime": 0.021785,
+          "meanTestTime": 0.01389
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.96638,
+          "meanTrainScore": 0.978254,
+          "meanFitTime": 0.038478,
+          "meanTestTime": 0.015469
+        }
+      ]
+    }
+  ],
+  "Occitanie": [
+    {
+      "bestIndex": 7,
+      "allResults": [
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.959323,
+          "meanTrainScore": 0.956419,
+          "meanFitTime": 0.017927,
+          "meanTestTime": 0.012432
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.985014,
+          "meanTrainScore": 0.986706,
+          "meanFitTime": 0.096284,
+          "meanTestTime": 0.018536
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.948195,
+          "meanTrainScore": 0.94567,
+          "meanFitTime": 0.020906,
+          "meanTestTime": 0.074046
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.980225,
+          "meanTrainScore": 0.981643,
+          "meanFitTime": 0.044044,
+          "meanTestTime": 0.021942
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.948072,
+          "meanTrainScore": 0.945745,
+          "meanFitTime": 0.02032,
+          "meanTestTime": 0.013204
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.981227,
+          "meanTrainScore": 0.982125,
+          "meanFitTime": 0.047187,
+          "meanTestTime": 0.014833
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.961764,
+          "meanTrainScore": 0.960839,
+          "meanFitTime": 0.017451,
+          "meanTestTime": 0.013291
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.98526,
+          "meanTrainScore": 0.987534,
+          "meanFitTime": 0.142317,
+          "meanTestTime": 0.012188
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.944141,
+          "meanTrainScore": 0.943498,
+          "meanFitTime": 0.021025,
+          "meanTestTime": 0.037198
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.979425,
+          "meanTrainScore": 0.981164,
+          "meanFitTime": 0.062705,
+          "meanTestTime": 0.017035
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.943901,
+          "meanTrainScore": 0.943586,
+          "meanFitTime": 0.022631,
+          "meanTestTime": 0.025182
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.980589,
+          "meanTrainScore": 0.981642,
+          "meanFitTime": 0.045112,
+          "meanTestTime": 0.01515
+        }
+      ]
+    }
+  ],
+  "Pays de la Loire": [
+    {
+      "bestIndex": 7,
+      "allResults": [
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.937723,
+          "meanTrainScore": 0.927949,
+          "meanFitTime": 0.018644,
+          "meanTestTime": 0.01446
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.978376,
+          "meanTrainScore": 0.976452,
+          "meanFitTime": 0.093829,
+          "meanTestTime": 0.013179
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.917701,
+          "meanTrainScore": 0.906855,
+          "meanFitTime": 0.025196,
+          "meanTestTime": 0.035964
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.974671,
+          "meanTrainScore": 0.971495,
+          "meanFitTime": 0.046285,
+          "meanTestTime": 0.015802
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.917701,
+          "meanTrainScore": 0.906855,
+          "meanFitTime": 0.021056,
+          "meanTestTime": 0.030567
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.974671,
+          "meanTrainScore": 0.971495,
+          "meanFitTime": 0.047979,
+          "meanTestTime": 0.013404
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.943513,
+          "meanTrainScore": 0.940669,
+          "meanFitTime": 0.018499,
+          "meanTestTime": 0.016395
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.97872,
+          "meanTrainScore": 0.9777,
+          "meanFitTime": 0.147985,
+          "meanTestTime": 0.018303
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.911599,
+          "meanTrainScore": 0.915611,
+          "meanFitTime": 0.022467,
+          "meanTestTime": 0.069429
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.973104,
+          "meanTrainScore": 0.970455,
+          "meanFitTime": 0.071368,
+          "meanTestTime": 0.039823
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.911599,
+          "meanTrainScore": 0.915611,
+          "meanFitTime": 0.026271,
+          "meanTestTime": 0.043926
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 11,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.973104,
+          "meanTrainScore": 0.970455,
+          "meanFitTime": 0.038692,
+          "meanTestTime": 0.018853
+        }
+      ]
+    }
+  ],
+  "PACA": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.964015,
+          "meanTrainScore": 0.96652,
+          "meanFitTime": 0.017386,
+          "meanTestTime": 0.01388
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.982151,
+          "meanTrainScore": 0.988147,
+          "meanFitTime": 0.08056,
+          "meanTestTime": 0.016237
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 9,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.953291,
+          "meanTrainScore": 0.958049,
+          "meanFitTime": 0.020968,
+          "meanTestTime": 0.021046
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 9,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.976505,
+          "meanTrainScore": 0.983626,
+          "meanFitTime": 0.058816,
+          "meanTestTime": 0.018022
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.953735,
+          "meanTrainScore": 0.958506,
+          "meanFitTime": 0.024765,
+          "meanTestTime": 0.023162
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.976874,
+          "meanTrainScore": 0.983919,
+          "meanFitTime": 0.037403,
+          "meanTestTime": 0.012178
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.96525,
+          "meanTrainScore": 0.969975,
+          "meanFitTime": 0.017924,
+          "meanTestTime": 0.015078
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.98194,
+          "meanTrainScore": 0.988981,
+          "meanFitTime": 0.095589,
+          "meanTestTime": 0.012715
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 9,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.949817,
+          "meanTrainScore": 0.954436,
+          "meanFitTime": 0.020426,
+          "meanTestTime": 0.042848
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 9,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.974744,
+          "meanTrainScore": 0.982178,
+          "meanFitTime": 0.04067,
+          "meanTestTime": 0.029868
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 1,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.950328,
+          "meanTrainScore": 0.95528,
+          "meanFitTime": 0.019546,
+          "meanTestTime": 0.013779
+        },
+        {
+          "params": {
+            "days__use_hour": true,
+            "days__use_weekDay": true,
+            "days__use_yearDay": true,
+            "pca__nComp": 10,
+            "poly__degree": 2,
+            "sincos__use_hour": true,
+            "sincos__use_weekDay": true,
+            "sincos__use_yearDay": true,
+            "nbLstCons": 7
+          },
+          "meanTestScore": 0.975819,
+          "meanTrainScore": 0.983257,
+          "meanFitTime": 0.033603,
+          "meanTestTime": 0.010987
+        }
+      ]
+    }
+  ]
+}

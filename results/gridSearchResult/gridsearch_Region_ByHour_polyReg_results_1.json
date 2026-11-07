@@ -1,0 +1,482 @@
+{
+  "Auvergne-Rhône-Alpes": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.970012,
+          "meanTrainScore": 0.981661,
+          "meanFitTime": 0.06695,
+          "meanTestTime": 0.031015
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.979166,
+          "meanTrainScore": 0.993756,
+          "meanFitTime": 0.700033,
+          "meanTestTime": 0.070126
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 3,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.970383,
+          "meanTrainScore": 0.998328,
+          "meanFitTime": 45.914543,
+          "meanTestTime": 0.397217
+        }
+      ]
+    }
+  ],
+  "Bourgogne-Franche-Comté": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.973657,
+          "meanTrainScore": 0.978881,
+          "meanFitTime": 0.068368,
+          "meanTestTime": 0.030131
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.984352,
+          "meanTrainScore": 0.989417,
+          "meanFitTime": 0.743205,
+          "meanTestTime": 0.058806
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 3,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.977118,
+          "meanTrainScore": 0.996146,
+          "meanFitTime": 45.205071,
+          "meanTestTime": 0.370414
+        }
+      ]
+    }
+  ],
+  "Bretagne": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.963723,
+          "meanTrainScore": 0.966034,
+          "meanFitTime": 0.074035,
+          "meanTestTime": 0.030472
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.985428,
+          "meanTrainScore": 0.991926,
+          "meanFitTime": 0.777157,
+          "meanTestTime": 0.070477
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 3,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.958682,
+          "meanTrainScore": 0.997609,
+          "meanFitTime": 46.354751,
+          "meanTestTime": 0.364067
+        }
+      ]
+    }
+  ],
+  "Centre-Val de Loire": [
+    {
+      "bestIndex": 0,
+      "allResults": [
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.97469,
+          "meanTrainScore": 0.979867,
+          "meanFitTime": 0.074066,
+          "meanTestTime": 0.033618
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.972153,
+          "meanTrainScore": 0.9893,
+          "meanFitTime": 0.742899,
+          "meanTestTime": 0.062161
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 3,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.481272,
+          "meanTrainScore": 0.99548,
+          "meanFitTime": 45.315983,
+          "meanTestTime": 0.387512
+        }
+      ]
+    }
+  ],
+  "Grand Est": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.945735,
+          "meanTrainScore": 0.982151,
+          "meanFitTime": 0.074641,
+          "meanTestTime": 0.036036
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.968591,
+          "meanTrainScore": 0.991756,
+          "meanFitTime": 0.756881,
+          "meanTestTime": 0.061917
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 3,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.948763,
+          "meanTrainScore": 0.996878,
+          "meanFitTime": 64.486819,
+          "meanTestTime": 0.594909
+        }
+      ]
+    }
+  ],
+  "Hauts-de-France": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.953937,
+          "meanTrainScore": 0.980453,
+          "meanFitTime": 0.136272,
+          "meanTestTime": 0.054606
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.96997,
+          "meanTrainScore": 0.990779,
+          "meanFitTime": 1.191639,
+          "meanTestTime": 0.09135
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 3,
+            "nbLstCons": 5
+          },
+          "meanTestScore": -2.051414,
+          "meanTrainScore": 0.996505,
+          "meanFitTime": 68.973389,
+          "meanTestTime": 0.394245
+        }
+      ]
+    }
+  ],
+  "Ile-de-France": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.985481,
+          "meanTrainScore": 0.984359,
+          "meanFitTime": 0.07423,
+          "meanTestTime": 0.032064
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.993521,
+          "meanTrainScore": 0.994464,
+          "meanFitTime": 0.560439,
+          "meanTestTime": 0.057943
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 3,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.992286,
+          "meanTrainScore": 0.998431,
+          "meanFitTime": 19.915763,
+          "meanTestTime": 0.252609
+        }
+      ]
+    }
+  ],
+  "Nouvelle-Aquitaine": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.970897,
+          "meanTrainScore": 0.982088,
+          "meanFitTime": 0.0691,
+          "meanTestTime": 0.03125
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.978684,
+          "meanTrainScore": 0.99333,
+          "meanFitTime": 0.778403,
+          "meanTestTime": 0.065875
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 3,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.646597,
+          "meanTrainScore": 0.997876,
+          "meanFitTime": 46.657165,
+          "meanTestTime": 0.375704
+        }
+      ]
+    }
+  ],
+  "Normandie": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.962837,
+          "meanTrainScore": 0.983495,
+          "meanFitTime": 0.086026,
+          "meanTestTime": 0.036152
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.977548,
+          "meanTrainScore": 0.991679,
+          "meanFitTime": 0.810693,
+          "meanTestTime": 0.055425
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 3,
+            "nbLstCons": 5
+          },
+          "meanTestScore": -22.180573,
+          "meanTrainScore": 0.997563,
+          "meanFitTime": 46.563773,
+          "meanTestTime": 0.37166
+        }
+      ]
+    }
+  ],
+  "Occitanie": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.94066,
+          "meanTrainScore": 0.975084,
+          "meanFitTime": 0.08204,
+          "meanTestTime": 0.05184
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.957938,
+          "meanTrainScore": 0.991851,
+          "meanFitTime": 0.709677,
+          "meanTestTime": 0.069116
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 3,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.949357,
+          "meanTrainScore": 0.998011,
+          "meanFitTime": 45.908556,
+          "meanTestTime": 0.348041
+        }
+      ]
+    }
+  ],
+  "Pays de la Loire": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.971222,
+          "meanTrainScore": 0.967945,
+          "meanFitTime": 0.071316,
+          "meanTestTime": 0.033919
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.983806,
+          "meanTrainScore": 0.987469,
+          "meanFitTime": 0.768126,
+          "meanTestTime": 0.069217
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 3,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.975859,
+          "meanTrainScore": 0.997835,
+          "meanFitTime": 47.078464,
+          "meanTestTime": 0.367467
+        }
+      ]
+    }
+  ],
+  "PACA": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 1,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.950184,
+          "meanTrainScore": 0.968659,
+          "meanFitTime": 0.068767,
+          "meanTestTime": 0.032486
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 2,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.977477,
+          "meanTrainScore": 0.99047,
+          "meanFitTime": 0.758128,
+          "meanTestTime": 0.06314
+        },
+        {
+          "params": {
+            "pca__nComp": -1,
+            "poly__degree": 3,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.973877,
+          "meanTrainScore": 0.997701,
+          "meanFitTime": 56.044247,
+          "meanTestTime": 0.57846
+        }
+      ]
+    }
+  ]
+}

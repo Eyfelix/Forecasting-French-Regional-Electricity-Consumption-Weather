@@ -1,0 +1,153 @@
+{
+  "PACA": [
+    {
+      "bestIndex": 6,
+      "allResults": [
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 36,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.84593,
+          "meanTrainScore": 0.947403,
+          "meanFitTime": 54.360238,
+          "meanTestTime": 0.461669
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 42,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.845184,
+          "meanTrainScore": 0.947792,
+          "meanFitTime": 63.693379,
+          "meanTestTime": 0.455311
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 36,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.84849,
+          "meanTrainScore": 0.948566,
+          "meanFitTime": 82.292672,
+          "meanTestTime": 0.699119
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 42,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.847405,
+          "meanTrainScore": 0.949049,
+          "meanFitTime": 103.165745,
+          "meanTestTime": 0.896534
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 36,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.84695,
+          "meanTrainScore": 0.984352,
+          "meanFitTime": 103.953408,
+          "meanTestTime": 0.61675
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 42,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.846268,
+          "meanTrainScore": 0.984803,
+          "meanFitTime": 124.529117,
+          "meanTestTime": 0.569488
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 36,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.848746,
+          "meanTrainScore": 0.984781,
+          "meanFitTime": 160.21747,
+          "meanTestTime": 0.944583
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 42,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.845627,
+          "meanTrainScore": 0.985041,
+          "meanFitTime": 189.595906,
+          "meanTestTime": 0.871963
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 36,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.845809,
+          "meanTrainScore": 0.997785,
+          "meanFitTime": 139.615423,
+          "meanTestTime": 0.66263
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 42,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.843943,
+          "meanTrainScore": 0.997917,
+          "meanFitTime": 162.493563,
+          "meanTestTime": 0.687847
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 36,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.847595,
+          "meanTrainScore": 0.997846,
+          "meanFitTime": 193.982975,
+          "meanTestTime": 0.820997
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 42,
+            "nbLstCons": 5
+          },
+          "meanTestScore": 0.845226,
+          "meanTrainScore": 0.998001,
+          "meanFitTime": 207.101107,
+          "meanTestTime": 0.834591
+        }
+      ]
+    }
+  ]
+}

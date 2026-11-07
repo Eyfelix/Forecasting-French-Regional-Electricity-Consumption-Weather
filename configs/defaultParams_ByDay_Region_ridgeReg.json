@@ -1,0 +1,74 @@
+{
+  "Auvergne-Rhône-Alpes": {
+    "pca__nComp": -1,
+    "poly__degree": 3,
+    "ridge__alpha": 27.825594022071257,
+    "nbLstCons": 11
+  },
+  "Bourgogne-Franche-Comté": {
+    "pca__nComp": -1,
+    "poly__degree": 3,
+    "ridge__alpha": 27.825594022071257,
+    "nbLstCons": 11
+  },
+  "Bretagne": {
+    "pca__nComp": -1,
+    "poly__degree": 3,
+    "ridge__alpha": 27.825594022071257,
+    "nbLstCons": 3
+  },
+  "Centre-Val de Loire": {
+    "pca__nComp": -1,
+    "poly__degree": 3,
+    "ridge__alpha": 27.825594022071257,
+    "nbLstCons": 11
+  },
+  "Grand Est": {
+    "pca__nComp": -1,
+    "poly__degree": 3,
+    "ridge__alpha": 4.641588833612782,
+    "nbLstCons": 3
+  },
+  "Hauts-de-France": {
+    "pca__nComp": -1,
+    "poly__degree": 3,
+    "ridge__alpha": 166.81005372000593,
+    "nbLstCons": 11
+  },
+  "Ile-de-France": {
+    "pca__nComp": -1,
+    "poly__degree": 3,
+    "ridge__alpha": 27.825594022071257,
+    "nbLstCons": 11
+  },
+  "Nouvelle-Aquitaine": {
+    "pca__nComp": -1,
+    "poly__degree": 2,
+    "ridge__alpha": 0.021544346900318846,
+    "nbLstCons": 7
+  },
+  "Normandie": {
+    "pca__nComp": -1,
+    "poly__degree": 3,
+    "ridge__alpha": 27.825594022071257,
+    "nbLstCons": 11
+  },
+  "Occitanie": {
+    "pca__nComp": -1,
+    "poly__degree": 3,
+    "ridge__alpha": 0.774263682681127,
+    "nbLstCons": 7
+  },
+  "Pays de la Loire": {
+    "pca__nComp": 11,
+    "poly__degree": 3,
+    "ridge__alpha": 100.0,
+    "nbLstCons": 3
+  },
+  "PACA": {
+    "pca__nComp": -1,
+    "poly__degree": 3,
+    "ridge__alpha": 0.774263682681127,
+    "nbLstCons": 7
+  }
+}

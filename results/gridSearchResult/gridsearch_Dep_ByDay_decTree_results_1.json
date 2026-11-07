@@ -1,0 +1,5258 @@
+{
+  "Bourgogne-Franche-Comté": [
+    {
+      "bestIndex": 0,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.833531,
+          "meanTrainScore": 0.894021,
+          "meanFitTime": 0.130302,
+          "meanTestTime": 0.012746
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.689278,
+          "meanTrainScore": 0.733007,
+          "meanFitTime": 0.046244,
+          "meanTestTime": 0.013625
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.685571,
+          "meanTrainScore": 0.747536,
+          "meanFitTime": 0.042745,
+          "meanTestTime": 0.013301
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.752615,
+          "meanTrainScore": 0.787119,
+          "meanFitTime": 0.036784,
+          "meanTestTime": 0.013136
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.663325,
+          "meanTrainScore": 0.712577,
+          "meanFitTime": 0.031159,
+          "meanTestTime": 0.013568
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.658476,
+          "meanTrainScore": 0.715903,
+          "meanFitTime": 0.031741,
+          "meanTestTime": 0.014532
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.753527,
+          "meanTrainScore": 0.797843,
+          "meanFitTime": 0.028785,
+          "meanTestTime": 0.015714
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.653658,
+          "meanTrainScore": 0.704925,
+          "meanFitTime": 0.029784,
+          "meanTestTime": 0.014904
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.657636,
+          "meanTrainScore": 0.716615,
+          "meanFitTime": 0.032039,
+          "meanTestTime": 0.013346
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.818475,
+          "meanTrainScore": 0.984833,
+          "meanFitTime": 0.208563,
+          "meanTestTime": 0.016112
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.529786,
+          "meanTrainScore": 0.864989,
+          "meanFitTime": 0.051801,
+          "meanTestTime": 0.016839
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.547921,
+          "meanTrainScore": 0.88434,
+          "meanFitTime": 0.067604,
+          "meanTestTime": 0.015035
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.72598,
+          "meanTrainScore": 0.953942,
+          "meanFitTime": 0.06476,
+          "meanTestTime": 0.015309
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.56664,
+          "meanTrainScore": 0.83767,
+          "meanFitTime": 0.036829,
+          "meanTestTime": 0.015315
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.530448,
+          "meanTrainScore": 0.865508,
+          "meanFitTime": 0.044562,
+          "meanTestTime": 0.014871
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.701832,
+          "meanTrainScore": 0.929645,
+          "meanFitTime": 0.041605,
+          "meanTestTime": 0.014384
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.533166,
+          "meanTrainScore": 0.832373,
+          "meanFitTime": 0.033605,
+          "meanTestTime": 0.014291
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.549174,
+          "meanTrainScore": 0.855663,
+          "meanFitTime": 0.038918,
+          "meanTestTime": 0.018479
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.816643,
+          "meanTrainScore": 0.991633,
+          "meanFitTime": 0.213119,
+          "meanTestTime": 0.012437
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.496965,
+          "meanTrainScore": 0.903749,
+          "meanFitTime": 0.058841,
+          "meanTestTime": 0.013966
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.504988,
+          "meanTrainScore": 0.921282,
+          "meanFitTime": 0.061598,
+          "meanTestTime": 0.013945
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.73971,
+          "meanTrainScore": 0.96984,
+          "meanFitTime": 0.047823,
+          "meanTestTime": 0.012993
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.548543,
+          "meanTrainScore": 0.872769,
+          "meanFitTime": 0.033524,
+          "meanTestTime": 0.012733
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.54329,
+          "meanTrainScore": 0.890453,
+          "meanFitTime": 0.036611,
+          "meanTestTime": 0.013038
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.69794,
+          "meanTrainScore": 0.960075,
+          "meanFitTime": 0.039852,
+          "meanTestTime": 0.013388
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.486643,
+          "meanTrainScore": 0.883507,
+          "meanFitTime": 0.034528,
+          "meanTestTime": 0.013022
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.511219,
+          "meanTrainScore": 0.906664,
+          "meanFitTime": 0.037737,
+          "meanTestTime": 0.013307
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.807522,
+          "meanTrainScore": 0.994973,
+          "meanFitTime": 0.227649,
+          "meanTestTime": 0.021145
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.46849,
+          "meanTrainScore": 0.931956,
+          "meanFitTime": 0.058803,
+          "meanTestTime": 0.011808
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.481094,
+          "meanTrainScore": 0.947815,
+          "meanFitTime": 0.07122,
+          "meanTestTime": 0.01235
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.722615,
+          "meanTrainScore": 0.982292,
+          "meanFitTime": 0.048537,
+          "meanTestTime": 0.01429
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.475605,
+          "meanTrainScore": 0.922647,
+          "meanFitTime": 0.035945,
+          "meanTestTime": 0.014371
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.471862,
+          "meanTrainScore": 0.940937,
+          "meanFitTime": 0.040158,
+          "meanTestTime": 0.014606
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.665258,
+          "meanTrainScore": 0.987258,
+          "meanFitTime": 0.046299,
+          "meanTestTime": 0.01487
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.482986,
+          "meanTrainScore": 0.907841,
+          "meanFitTime": 0.036054,
+          "meanTestTime": 0.019784
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.471052,
+          "meanTrainScore": 0.941561,
+          "meanFitTime": 0.048442,
+          "meanTestTime": 0.014203
+        }
+      ]
+    },
+    {
+      "bestIndex": 9,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.918378,
+          "meanTrainScore": 0.943976,
+          "meanFitTime": 0.123303,
+          "meanTestTime": 0.014498
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.682407,
+          "meanTrainScore": 0.735035,
+          "meanFitTime": 0.038854,
+          "meanTestTime": 0.017214
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.676554,
+          "meanTrainScore": 0.748411,
+          "meanFitTime": 0.050734,
+          "meanTestTime": 0.015643
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.789263,
+          "meanTrainScore": 0.818082,
+          "meanFitTime": 0.041613,
+          "meanTestTime": 0.014328
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.65902,
+          "meanTrainScore": 0.717166,
+          "meanFitTime": 0.030925,
+          "meanTestTime": 0.016555
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.655975,
+          "meanTrainScore": 0.715984,
+          "meanFitTime": 0.031836,
+          "meanTestTime": 0.015725
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.786321,
+          "meanTrainScore": 0.823597,
+          "meanFitTime": 0.032554,
+          "meanTestTime": 0.023836
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.646194,
+          "meanTrainScore": 0.703022,
+          "meanFitTime": 0.027708,
+          "meanTestTime": 0.014334
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.681914,
+          "meanTrainScore": 0.731661,
+          "meanFitTime": 0.030029,
+          "meanTestTime": 0.013044
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.931822,
+          "meanTrainScore": 0.995139,
+          "meanFitTime": 0.215034,
+          "meanTestTime": 0.013019
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.520324,
+          "meanTrainScore": 0.868196,
+          "meanFitTime": 0.049078,
+          "meanTestTime": 0.012696
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.571104,
+          "meanTrainScore": 0.882244,
+          "meanFitTime": 0.06084,
+          "meanTestTime": 0.013902
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.850922,
+          "meanTrainScore": 0.973283,
+          "meanFitTime": 0.043621,
+          "meanTestTime": 0.012305
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.539667,
+          "meanTrainScore": 0.831247,
+          "meanFitTime": 0.034871,
+          "meanTestTime": 0.013845
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.56316,
+          "meanTrainScore": 0.860036,
+          "meanFitTime": 0.049898,
+          "meanTestTime": 0.012596
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.741808,
+          "meanTrainScore": 0.944842,
+          "meanFitTime": 0.046589,
+          "meanTestTime": 0.012215
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.519963,
+          "meanTrainScore": 0.85918,
+          "meanFitTime": 0.043798,
+          "meanTestTime": 0.012695
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.555355,
+          "meanTrainScore": 0.856393,
+          "meanFitTime": 0.037022,
+          "meanTestTime": 0.013218
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.923988,
+          "meanTrainScore": 0.998536,
+          "meanFitTime": 0.223796,
+          "meanTestTime": 0.013434
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.472904,
+          "meanTrainScore": 0.90575,
+          "meanFitTime": 0.060086,
+          "meanTestTime": 0.012928
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.534639,
+          "meanTrainScore": 0.917369,
+          "meanFitTime": 0.062259,
+          "meanTestTime": 0.01405
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.797683,
+          "meanTrainScore": 0.991358,
+          "meanFitTime": 0.049985,
+          "meanTestTime": 0.013324
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.513211,
+          "meanTrainScore": 0.893677,
+          "meanFitTime": 0.036885,
+          "meanTestTime": 0.014077
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.578574,
+          "meanTrainScore": 0.890993,
+          "meanFitTime": 0.039876,
+          "meanTestTime": 0.015767
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.7765,
+          "meanTrainScore": 0.984162,
+          "meanFitTime": 0.042413,
+          "meanTestTime": 0.012102
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.544785,
+          "meanTrainScore": 0.881148,
+          "meanFitTime": 0.033974,
+          "meanTestTime": 0.014336
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.488688,
+          "meanTrainScore": 0.884967,
+          "meanFitTime": 0.042005,
+          "meanTestTime": 0.014369
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.919783,
+          "meanTrainScore": 0.999626,
+          "meanFitTime": 0.24193,
+          "meanTestTime": 0.015576
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.438501,
+          "meanTrainScore": 0.933876,
+          "meanFitTime": 0.061229,
+          "meanTestTime": 0.012708
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.513452,
+          "meanTrainScore": 0.943988,
+          "meanFitTime": 0.06655,
+          "meanTestTime": 0.015123
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.818803,
+          "meanTrainScore": 0.993968,
+          "meanFitTime": 0.051976,
+          "meanTestTime": 0.013259
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.493272,
+          "meanTrainScore": 0.904454,
+          "meanFitTime": 0.038401,
+          "meanTestTime": 0.014423
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.526877,
+          "meanTrainScore": 0.922326,
+          "meanFitTime": 0.042689,
+          "meanTestTime": 0.012855
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.751076,
+          "meanTrainScore": 0.990263,
+          "meanFitTime": 0.042162,
+          "meanTestTime": 0.014195
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.470233,
+          "meanTrainScore": 0.925304,
+          "meanFitTime": 0.034202,
+          "meanTestTime": 0.014148
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.484174,
+          "meanTrainScore": 0.924925,
+          "meanFitTime": 0.043975,
+          "meanTestTime": 0.013639
+        }
+      ]
+    }
+  ],
+  "Centre-Val de Loire": [
+    {
+      "bestIndex": 9,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.833071,
+          "meanTrainScore": 0.91383,
+          "meanFitTime": 0.083787,
+          "meanTestTime": 0.013085
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.706402,
+          "meanTrainScore": 0.799699,
+          "meanFitTime": 0.029142,
+          "meanTestTime": 0.0121
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.736747,
+          "meanTrainScore": 0.821047,
+          "meanFitTime": 0.044488,
+          "meanTestTime": 0.014854
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.791525,
+          "meanTrainScore": 0.866721,
+          "meanFitTime": 0.037285,
+          "meanTestTime": 0.016062
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.708214,
+          "meanTrainScore": 0.792498,
+          "meanFitTime": 0.026591,
+          "meanTestTime": 0.018607
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.655132,
+          "meanTrainScore": 0.787137,
+          "meanFitTime": 0.02617,
+          "meanTestTime": 0.017222
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.79729,
+          "meanTrainScore": 0.876296,
+          "meanFitTime": 0.033867,
+          "meanTestTime": 0.013749
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.715868,
+          "meanTrainScore": 0.796577,
+          "meanFitTime": 0.030356,
+          "meanTestTime": 0.015741
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.669738,
+          "meanTrainScore": 0.771651,
+          "meanFitTime": 0.029784,
+          "meanTestTime": 0.012153
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.836856,
+          "meanTrainScore": 0.987781,
+          "meanFitTime": 0.16083,
+          "meanTestTime": 0.012647
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.619632,
+          "meanTrainScore": 0.909477,
+          "meanFitTime": 0.042588,
+          "meanTestTime": 0.017114
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.659299,
+          "meanTrainScore": 0.923952,
+          "meanFitTime": 0.052374,
+          "meanTestTime": 0.015247
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.770232,
+          "meanTrainScore": 0.971387,
+          "meanFitTime": 0.040431,
+          "meanTestTime": 0.012728
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.654335,
+          "meanTrainScore": 0.886912,
+          "meanFitTime": 0.030177,
+          "meanTestTime": 0.019505
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.636236,
+          "meanTrainScore": 0.90922,
+          "meanFitTime": 0.033039,
+          "meanTestTime": 0.012964
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.769461,
+          "meanTrainScore": 0.959146,
+          "meanFitTime": 0.049231,
+          "meanTestTime": 0.013701
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.620296,
+          "meanTrainScore": 0.89098,
+          "meanFitTime": 0.02955,
+          "meanTestTime": 0.017555
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.658088,
+          "meanTrainScore": 0.900444,
+          "meanFitTime": 0.035291,
+          "meanTestTime": 0.013608
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.82912,
+          "meanTrainScore": 0.994558,
+          "meanFitTime": 0.170216,
+          "meanTestTime": 0.01242
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.58586,
+          "meanTrainScore": 0.937227,
+          "meanFitTime": 0.043276,
+          "meanTestTime": 0.014331
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.628567,
+          "meanTrainScore": 0.944234,
+          "meanFitTime": 0.059192,
+          "meanTestTime": 0.01301
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.77838,
+          "meanTrainScore": 0.985319,
+          "meanFitTime": 0.042335,
+          "meanTestTime": 0.01423
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.597588,
+          "meanTrainScore": 0.933702,
+          "meanFitTime": 0.032377,
+          "meanTestTime": 0.014
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.647908,
+          "meanTrainScore": 0.930097,
+          "meanFitTime": 0.033839,
+          "meanTestTime": 0.013218
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.755182,
+          "meanTrainScore": 0.983153,
+          "meanFitTime": 0.038447,
+          "meanTestTime": 0.015154
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.575067,
+          "meanTrainScore": 0.928141,
+          "meanFitTime": 0.032952,
+          "meanTestTime": 0.012959
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.620927,
+          "meanTrainScore": 0.925491,
+          "meanFitTime": 0.03255,
+          "meanTestTime": 0.014106
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.818855,
+          "meanTrainScore": 0.997379,
+          "meanFitTime": 0.165286,
+          "meanTestTime": 0.013994
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.562414,
+          "meanTrainScore": 0.956297,
+          "meanFitTime": 0.046383,
+          "meanTestTime": 0.012914
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.624538,
+          "meanTrainScore": 0.95847,
+          "meanFitTime": 0.05758,
+          "meanTestTime": 0.012336
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.771009,
+          "meanTrainScore": 0.991543,
+          "meanFitTime": 0.0415,
+          "meanTestTime": 0.013961
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.569393,
+          "meanTrainScore": 0.94068,
+          "meanFitTime": 0.030491,
+          "meanTestTime": 0.013285
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.602804,
+          "meanTrainScore": 0.946476,
+          "meanFitTime": 0.032219,
+          "meanTestTime": 0.014373
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.747791,
+          "meanTrainScore": 0.988583,
+          "meanFitTime": 0.037855,
+          "meanTestTime": 0.013182
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.597641,
+          "meanTrainScore": 0.945572,
+          "meanFitTime": 0.030131,
+          "meanTestTime": 0.012106
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.618611,
+          "meanTrainScore": 0.939377,
+          "meanFitTime": 0.031471,
+          "meanTestTime": 0.013132
+        }
+      ]
+    },
+    {
+      "bestIndex": 0,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.924275,
+          "meanTrainScore": 0.95291,
+          "meanFitTime": 0.100307,
+          "meanTestTime": 0.014947
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.720984,
+          "meanTrainScore": 0.803934,
+          "meanFitTime": 0.029361,
+          "meanTestTime": 0.013666
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.74403,
+          "meanTrainScore": 0.822498,
+          "meanFitTime": 0.044203,
+          "meanTestTime": 0.0128
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.868055,
+          "meanTrainScore": 0.904968,
+          "meanFitTime": 0.038812,
+          "meanTestTime": 0.014346
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.697767,
+          "meanTrainScore": 0.792655,
+          "meanFitTime": 0.027289,
+          "meanTestTime": 0.016567
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.728062,
+          "meanTrainScore": 0.804297,
+          "meanFitTime": 0.029738,
+          "meanTestTime": 0.017829
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.823617,
+          "meanTrainScore": 0.87247,
+          "meanFitTime": 0.030466,
+          "meanTestTime": 0.014676
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.706445,
+          "meanTrainScore": 0.790727,
+          "meanFitTime": 0.028662,
+          "meanTestTime": 0.017482
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.705399,
+          "meanTrainScore": 0.798847,
+          "meanFitTime": 0.028521,
+          "meanTestTime": 0.017847
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.920399,
+          "meanTrainScore": 0.995384,
+          "meanFitTime": 0.172705,
+          "meanTestTime": 0.015956
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.613058,
+          "meanTrainScore": 0.913554,
+          "meanFitTime": 0.044915,
+          "meanTestTime": 0.015443
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.694845,
+          "meanTrainScore": 0.922051,
+          "meanFitTime": 0.061031,
+          "meanTestTime": 0.013306
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.838472,
+          "meanTrainScore": 0.978292,
+          "meanFitTime": 0.046926,
+          "meanTestTime": 0.015607
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.632944,
+          "meanTrainScore": 0.906846,
+          "meanFitTime": 0.038669,
+          "meanTestTime": 0.015437
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.693759,
+          "meanTrainScore": 0.908925,
+          "meanFitTime": 0.033294,
+          "meanTestTime": 0.015687
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.871638,
+          "meanTrainScore": 0.979904,
+          "meanFitTime": 0.039418,
+          "meanTestTime": 0.019532
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.612218,
+          "meanTrainScore": 0.900012,
+          "meanFitTime": 0.034356,
+          "meanTestTime": 0.018421
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.686457,
+          "meanTrainScore": 0.90412,
+          "meanFitTime": 0.039021,
+          "meanTestTime": 0.015243
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.924063,
+          "meanTrainScore": 0.99818,
+          "meanFitTime": 0.201664,
+          "meanTestTime": 0.016647
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.57344,
+          "meanTrainScore": 0.943281,
+          "meanFitTime": 0.04859,
+          "meanTestTime": 0.013907
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.670206,
+          "meanTrainScore": 0.943011,
+          "meanFitTime": 0.061466,
+          "meanTestTime": 0.015776
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.847151,
+          "meanTrainScore": 0.992822,
+          "meanFitTime": 0.048439,
+          "meanTestTime": 0.014797
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.585492,
+          "meanTrainScore": 0.924454,
+          "meanFitTime": 0.037794,
+          "meanTestTime": 0.014327
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.641812,
+          "meanTrainScore": 0.93197,
+          "meanFitTime": 0.035313,
+          "meanTestTime": 0.013226
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.867182,
+          "meanTrainScore": 0.988778,
+          "meanFitTime": 0.039922,
+          "meanTestTime": 0.015408
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.574525,
+          "meanTrainScore": 0.93432,
+          "meanFitTime": 0.030033,
+          "meanTestTime": 0.021351
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.666843,
+          "meanTrainScore": 0.928843,
+          "meanFitTime": 0.036581,
+          "meanTestTime": 0.013996
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.913356,
+          "meanTrainScore": 0.999291,
+          "meanFitTime": 0.193762,
+          "meanTestTime": 0.014654
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.544893,
+          "meanTrainScore": 0.964696,
+          "meanFitTime": 0.058437,
+          "meanTestTime": 0.014514
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.671742,
+          "meanTrainScore": 0.961523,
+          "meanFitTime": 0.064475,
+          "meanTestTime": 0.014794
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.865243,
+          "meanTrainScore": 0.997586,
+          "meanFitTime": 0.049658,
+          "meanTestTime": 0.014906
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.538451,
+          "meanTrainScore": 0.951619,
+          "meanFitTime": 0.035926,
+          "meanTestTime": 0.02147
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.5943,
+          "meanTrainScore": 0.95088,
+          "meanFitTime": 0.041617,
+          "meanTestTime": 0.014861
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.844572,
+          "meanTrainScore": 0.994993,
+          "meanFitTime": 0.050322,
+          "meanTestTime": 0.011688
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.590923,
+          "meanTrainScore": 0.952695,
+          "meanFitTime": 0.033075,
+          "meanTestTime": 0.015495
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.629788,
+          "meanTrainScore": 0.944271,
+          "meanFitTime": 0.034812,
+          "meanTestTime": 0.013133
+        }
+      ]
+    }
+  ],
+  "Hauts-de-France": [
+    {
+      "bestIndex": 0,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.768081,
+          "meanTrainScore": 0.899094,
+          "meanFitTime": 0.078836,
+          "meanTestTime": 0.020299
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.631078,
+          "meanTrainScore": 0.75298,
+          "meanFitTime": 0.026736,
+          "meanTestTime": 0.016296
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.63294,
+          "meanTrainScore": 0.777811,
+          "meanFitTime": 0.045507,
+          "meanTestTime": 0.016795
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.722107,
+          "meanTrainScore": 0.859965,
+          "meanFitTime": 0.030241,
+          "meanTestTime": 0.024732
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.569161,
+          "meanTrainScore": 0.75147,
+          "meanFitTime": 0.030294,
+          "meanTestTime": 0.01933
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.614006,
+          "meanTrainScore": 0.750169,
+          "meanFitTime": 0.035239,
+          "meanTestTime": 0.020411
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.686431,
+          "meanTrainScore": 0.810065,
+          "meanFitTime": 0.031708,
+          "meanTestTime": 0.016755
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.639475,
+          "meanTrainScore": 0.748205,
+          "meanFitTime": 0.031319,
+          "meanTestTime": 0.019954
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.604793,
+          "meanTrainScore": 0.756266,
+          "meanFitTime": 0.028027,
+          "meanTestTime": 0.019013
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.752247,
+          "meanTrainScore": 0.988386,
+          "meanFitTime": 0.145656,
+          "meanTestTime": 0.013459
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.4802,
+          "meanTrainScore": 0.871474,
+          "meanFitTime": 0.046255,
+          "meanTestTime": 0.017862
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.535121,
+          "meanTrainScore": 0.897121,
+          "meanFitTime": 0.052537,
+          "meanTestTime": 0.018116
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.668147,
+          "meanTrainScore": 0.951656,
+          "meanFitTime": 0.037993,
+          "meanTestTime": 0.014499
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.463339,
+          "meanTrainScore": 0.864835,
+          "meanFitTime": 0.033796,
+          "meanTestTime": 0.011802
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.474345,
+          "meanTrainScore": 0.882385,
+          "meanFitTime": 0.029394,
+          "meanTestTime": 0.014868
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.688059,
+          "meanTrainScore": 0.960131,
+          "meanFitTime": 0.03602,
+          "meanTestTime": 0.013425
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.434437,
+          "meanTrainScore": 0.855153,
+          "meanFitTime": 0.030668,
+          "meanTestTime": 0.01319
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.530324,
+          "meanTrainScore": 0.86547,
+          "meanFitTime": 0.030933,
+          "meanTestTime": 0.018266
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.737065,
+          "meanTrainScore": 0.996027,
+          "meanFitTime": 0.135149,
+          "meanTestTime": 0.013041
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.420764,
+          "meanTrainScore": 0.91301,
+          "meanFitTime": 0.046126,
+          "meanTestTime": 0.013209
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.478808,
+          "meanTrainScore": 0.930829,
+          "meanFitTime": 0.05119,
+          "meanTestTime": 0.012758
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.642614,
+          "meanTrainScore": 0.983092,
+          "meanFitTime": 0.037032,
+          "meanTestTime": 0.013208
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.432025,
+          "meanTrainScore": 0.911344,
+          "meanFitTime": 0.028866,
+          "meanTestTime": 0.01217
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.452397,
+          "meanTrainScore": 0.908249,
+          "meanFitTime": 0.032532,
+          "meanTestTime": 0.011688
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.590048,
+          "meanTrainScore": 0.976333,
+          "meanFitTime": 0.035176,
+          "meanTestTime": 0.012787
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.36639,
+          "meanTrainScore": 0.911105,
+          "meanFitTime": 0.033221,
+          "meanTestTime": 0.012589
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.464695,
+          "meanTrainScore": 0.914736,
+          "meanFitTime": 0.029706,
+          "meanTestTime": 0.013537
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.734441,
+          "meanTrainScore": 0.998743,
+          "meanFitTime": 0.147662,
+          "meanTestTime": 0.016793
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.371256,
+          "meanTrainScore": 0.946781,
+          "meanFitTime": 0.045187,
+          "meanTestTime": 0.01641
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.444192,
+          "meanTrainScore": 0.957439,
+          "meanFitTime": 0.053835,
+          "meanTestTime": 0.013539
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.644647,
+          "meanTrainScore": 0.993341,
+          "meanFitTime": 0.037168,
+          "meanTestTime": 0.013543
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.377742,
+          "meanTrainScore": 0.92914,
+          "meanFitTime": 0.031116,
+          "meanTestTime": 0.017601
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.433426,
+          "meanTrainScore": 0.934685,
+          "meanFitTime": 0.034683,
+          "meanTestTime": 0.014821
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.586265,
+          "meanTrainScore": 0.991389,
+          "meanFitTime": 0.040456,
+          "meanTestTime": 0.015006
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.454482,
+          "meanTrainScore": 0.929882,
+          "meanFitTime": 0.034021,
+          "meanTestTime": 0.012668
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.441602,
+          "meanTrainScore": 0.945452,
+          "meanFitTime": 0.031285,
+          "meanTestTime": 0.012193
+        }
+      ]
+    },
+    {
+      "bestIndex": 0,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.899846,
+          "meanTrainScore": 0.951978,
+          "meanFitTime": 0.081161,
+          "meanTestTime": 0.014749
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.66407,
+          "meanTrainScore": 0.773794,
+          "meanFitTime": 0.026508,
+          "meanTestTime": 0.013934
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.669692,
+          "meanTrainScore": 0.798489,
+          "meanFitTime": 0.035757,
+          "meanTestTime": 0.015416
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.841967,
+          "meanTrainScore": 0.890908,
+          "meanFitTime": 0.033502,
+          "meanTestTime": 0.01507
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.64963,
+          "meanTrainScore": 0.765216,
+          "meanFitTime": 0.024694,
+          "meanTestTime": 0.013904
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.639446,
+          "meanTrainScore": 0.774143,
+          "meanFitTime": 0.022116,
+          "meanTestTime": 0.012479
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.74675,
+          "meanTrainScore": 0.847125,
+          "meanFitTime": 0.029804,
+          "meanTestTime": 0.012794
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.62165,
+          "meanTrainScore": 0.766472,
+          "meanFitTime": 0.025004,
+          "meanTestTime": 0.01351
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.644739,
+          "meanTrainScore": 0.776633,
+          "meanFitTime": 0.02744,
+          "meanTestTime": 0.011964
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.89772,
+          "meanTrainScore": 0.996213,
+          "meanFitTime": 0.145904,
+          "meanTestTime": 0.012277
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.443906,
+          "meanTrainScore": 0.895461,
+          "meanFitTime": 0.04462,
+          "meanTestTime": 0.017695
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.561136,
+          "meanTrainScore": 0.916029,
+          "meanFitTime": 0.053808,
+          "meanTestTime": 0.01685
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.800246,
+          "meanTrainScore": 0.982352,
+          "meanFitTime": 0.045967,
+          "meanTestTime": 0.01614
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.521241,
+          "meanTrainScore": 0.881044,
+          "meanFitTime": 0.0292,
+          "meanTestTime": 0.014009
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.555131,
+          "meanTrainScore": 0.889698,
+          "meanFitTime": 0.030198,
+          "meanTestTime": 0.014031
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.796979,
+          "meanTrainScore": 0.98093,
+          "meanFitTime": 0.036356,
+          "meanTestTime": 0.01402
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.516419,
+          "meanTrainScore": 0.88062,
+          "meanFitTime": 0.028962,
+          "meanTestTime": 0.013084
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.568464,
+          "meanTrainScore": 0.891768,
+          "meanFitTime": 0.030583,
+          "meanTestTime": 0.01284
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.892975,
+          "meanTrainScore": 0.99897,
+          "meanFitTime": 0.150096,
+          "meanTestTime": 0.015346
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.410097,
+          "meanTrainScore": 0.933059,
+          "meanFitTime": 0.048154,
+          "meanTestTime": 0.012417
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.515824,
+          "meanTrainScore": 0.94637,
+          "meanFitTime": 0.054001,
+          "meanTestTime": 0.014186
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.809599,
+          "meanTrainScore": 0.992883,
+          "meanFitTime": 0.045625,
+          "meanTestTime": 0.011947
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.455591,
+          "meanTrainScore": 0.912484,
+          "meanFitTime": 0.029695,
+          "meanTestTime": 0.01233
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.524288,
+          "meanTrainScore": 0.917588,
+          "meanFitTime": 0.03252,
+          "meanTestTime": 0.015146
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.780856,
+          "meanTrainScore": 0.992025,
+          "meanFitTime": 0.039295,
+          "meanTestTime": 0.012318
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.496165,
+          "meanTrainScore": 0.917115,
+          "meanFitTime": 0.035454,
+          "meanTestTime": 0.013366
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.503828,
+          "meanTrainScore": 0.915918,
+          "meanFitTime": 0.029364,
+          "meanTestTime": 0.01408
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.893963,
+          "meanTrainScore": 0.999729,
+          "meanFitTime": 0.156146,
+          "meanTestTime": 0.013294
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.375222,
+          "meanTrainScore": 0.960828,
+          "meanFitTime": 0.045901,
+          "meanTestTime": 0.012514
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.486095,
+          "meanTrainScore": 0.967839,
+          "meanFitTime": 0.056611,
+          "meanTestTime": 0.014098
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.813003,
+          "meanTrainScore": 0.99848,
+          "meanFitTime": 0.042294,
+          "meanTestTime": 0.014292
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.427579,
+          "meanTrainScore": 0.955679,
+          "meanFitTime": 0.031904,
+          "meanTestTime": 0.013528
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.51311,
+          "meanTrainScore": 0.949814,
+          "meanFitTime": 0.031936,
+          "meanTestTime": 0.013612
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.813142,
+          "meanTrainScore": 0.997325,
+          "meanFitTime": 0.038476,
+          "meanTestTime": 0.013173
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.423421,
+          "meanTrainScore": 0.94297,
+          "meanFitTime": 0.028875,
+          "meanTestTime": 0.012209
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 7,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.468485,
+          "meanTrainScore": 0.941122,
+          "meanFitTime": 0.031919,
+          "meanTestTime": 0.012889
+        }
+      ]
+    }
+  ],
+  "Nouvelle-Aquitaine": [
+    {
+      "bestIndex": 0,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.876096,
+          "meanTrainScore": 0.919727,
+          "meanFitTime": 0.150679,
+          "meanTestTime": 0.014308
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.763401,
+          "meanTrainScore": 0.812831,
+          "meanFitTime": 0.044687,
+          "meanTestTime": 0.013135
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 15,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.767164,
+          "meanTrainScore": 0.82415,
+          "meanFitTime": 0.057525,
+          "meanTestTime": 0.013978
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.83336,
+          "meanTrainScore": 0.869481,
+          "meanFitTime": 0.036323,
+          "meanTestTime": 0.013454
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.726521,
+          "meanTrainScore": 0.792399,
+          "meanFitTime": 0.034854,
+          "meanTestTime": 0.012656
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 15,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.701977,
+          "meanTrainScore": 0.772436,
+          "meanFitTime": 0.037627,
+          "meanTestTime": 0.013294
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.792983,
+          "meanTrainScore": 0.857594,
+          "meanFitTime": 0.03529,
+          "meanTestTime": 0.013224
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.745192,
+          "meanTrainScore": 0.793223,
+          "meanFitTime": 0.038397,
+          "meanTestTime": 0.016468
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 15,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.673354,
+          "meanTrainScore": 0.769502,
+          "meanFitTime": 0.038182,
+          "meanTestTime": 0.013677
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.872194,
+          "meanTrainScore": 0.988013,
+          "meanFitTime": 0.277347,
+          "meanTestTime": 0.013357
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.690146,
+          "meanTrainScore": 0.927256,
+          "meanFitTime": 0.067943,
+          "meanTestTime": 0.013643
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 15,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.703671,
+          "meanTrainScore": 0.942156,
+          "meanFitTime": 0.092349,
+          "meanTestTime": 0.012596
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.794254,
+          "meanTrainScore": 0.965667,
+          "meanFitTime": 0.0526,
+          "meanTestTime": 0.01323
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.718259,
+          "meanTrainScore": 0.904158,
+          "meanFitTime": 0.039559,
+          "meanTestTime": 0.014101
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 15,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.713696,
+          "meanTrainScore": 0.916958,
+          "meanFitTime": 0.038675,
+          "meanTestTime": 0.013644
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.783155,
+          "meanTrainScore": 0.973959,
+          "meanFitTime": 0.044236,
+          "meanTestTime": 0.013749
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.696825,
+          "meanTrainScore": 0.903306,
+          "meanFitTime": 0.037291,
+          "meanTestTime": 0.016163
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 15,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.704638,
+          "meanTrainScore": 0.914704,
+          "meanFitTime": 0.041083,
+          "meanTestTime": 0.013449
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.871866,
+          "meanTrainScore": 0.995016,
+          "meanFitTime": 0.287184,
+          "meanTestTime": 0.011673
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.667043,
+          "meanTrainScore": 0.953836,
+          "meanFitTime": 0.061746,
+          "meanTestTime": 0.012289
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 15,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.672689,
+          "meanTrainScore": 0.964942,
+          "meanFitTime": 0.094376,
+          "meanTestTime": 0.014071
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.803541,
+          "meanTrainScore": 0.981677,
+          "meanFitTime": 0.04712,
+          "meanTestTime": 0.012047
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.655498,
+          "meanTrainScore": 0.952706,
+          "meanFitTime": 0.038054,
+          "meanTestTime": 0.012333
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 15,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.699913,
+          "meanTrainScore": 0.944981,
+          "meanFitTime": 0.038004,
+          "meanTestTime": 0.012986
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.803684,
+          "meanTrainScore": 0.979099,
+          "meanFitTime": 0.046724,
+          "meanTestTime": 0.016681
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.668889,
+          "meanTrainScore": 0.938722,
+          "meanFitTime": 0.046451,
+          "meanTestTime": 0.019733
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 15,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.674488,
+          "meanTrainScore": 0.933975,
+          "meanFitTime": 0.278265,
+          "meanTestTime": 0.016432
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.866847,
+          "meanTrainScore": 0.998151,
+          "meanFitTime": 0.306487,
+          "meanTestTime": 0.013328
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.647011,
+          "meanTrainScore": 0.970463,
+          "meanFitTime": 0.065265,
+          "meanTestTime": 0.011871
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 15,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.648686,
+          "meanTrainScore": 0.9782,
+          "meanFitTime": 0.092596,
+          "meanTestTime": 0.012106
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.816928,
+          "meanTrainScore": 0.992022,
+          "meanFitTime": 0.053307,
+          "meanTestTime": 0.012465
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.666733,
+          "meanTrainScore": 0.963482,
+          "meanFitTime": 0.04112,
+          "meanTestTime": 0.01238
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 15,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.672558,
+          "meanTrainScore": 0.958265,
+          "meanFitTime": 0.043031,
+          "meanTestTime": 0.012065
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.807753,
+          "meanTrainScore": 0.990486,
+          "meanFitTime": 0.049699,
+          "meanTestTime": 0.013946
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.640682,
+          "meanTrainScore": 0.960379,
+          "meanFitTime": 0.043266,
+          "meanTestTime": 0.013077
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 15,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.68159,
+          "meanTrainScore": 0.971681,
+          "meanFitTime": 0.041654,
+          "meanTestTime": 0.012494
+        }
+      ]
+    },
+    {
+      "bestIndex": 9,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.947353,
+          "meanTrainScore": 0.956319,
+          "meanFitTime": 0.159759,
+          "meanTestTime": 0.016025
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.778063,
+          "meanTrainScore": 0.819313,
+          "meanFitTime": 0.043126,
+          "meanTestTime": 0.013291
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 15,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.781374,
+          "meanTrainScore": 0.828762,
+          "meanFitTime": 0.060024,
+          "meanTestTime": 0.014211
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.854549,
+          "meanTrainScore": 0.892404,
+          "meanFitTime": 0.039275,
+          "meanTestTime": 0.014012
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.763885,
+          "meanTrainScore": 0.795233,
+          "meanFitTime": 0.035166,
+          "meanTestTime": 0.013323
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 15,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.737393,
+          "meanTrainScore": 0.788465,
+          "meanFitTime": 0.035722,
+          "meanTestTime": 0.015751
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.868877,
+          "meanTrainScore": 0.893881,
+          "meanFitTime": 0.037913,
+          "meanTestTime": 0.014484
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.770484,
+          "meanTrainScore": 0.79809,
+          "meanFitTime": 0.034782,
+          "meanTestTime": 0.015289
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 15,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.7014,
+          "meanTrainScore": 0.782747,
+          "meanFitTime": 0.036081,
+          "meanTestTime": 0.013427
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.949219,
+          "meanTrainScore": 0.99546,
+          "meanFitTime": 0.268639,
+          "meanTestTime": 0.014414
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.717597,
+          "meanTrainScore": 0.93469,
+          "meanFitTime": 0.063375,
+          "meanTestTime": 0.015762
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 15,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.73947,
+          "meanTrainScore": 0.946413,
+          "meanFitTime": 0.084514,
+          "meanTestTime": 0.012955
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.89287,
+          "meanTrainScore": 0.986515,
+          "meanFitTime": 0.048648,
+          "meanTestTime": 0.012647
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.707618,
+          "meanTrainScore": 0.919558,
+          "meanFitTime": 0.038378,
+          "meanTestTime": 0.012564
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 15,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.683387,
+          "meanTrainScore": 0.914194,
+          "meanFitTime": 0.037002,
+          "meanTestTime": 0.012967
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.851233,
+          "meanTrainScore": 0.971307,
+          "meanFitTime": 0.043294,
+          "meanTestTime": 0.013398
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.73332,
+          "meanTrainScore": 0.920792,
+          "meanFitTime": 0.042458,
+          "meanTestTime": 0.014284
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 15,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.740434,
+          "meanTrainScore": 0.921108,
+          "meanFitTime": 0.040473,
+          "meanTestTime": 0.014687
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.944401,
+          "meanTrainScore": 0.997946,
+          "meanFitTime": 0.306415,
+          "meanTestTime": 0.013402
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.70092,
+          "meanTrainScore": 0.961939,
+          "meanFitTime": 0.069036,
+          "meanTestTime": 0.014776
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 15,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.705012,
+          "meanTrainScore": 0.967638,
+          "meanFitTime": 0.102646,
+          "meanTestTime": 0.014002
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.85316,
+          "meanTrainScore": 0.988239,
+          "meanFitTime": 0.053749,
+          "meanTestTime": 0.01388
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.707305,
+          "meanTrainScore": 0.945899,
+          "meanFitTime": 0.043221,
+          "meanTestTime": 0.012426
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 15,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.680136,
+          "meanTrainScore": 0.93638,
+          "meanFitTime": 0.039742,
+          "meanTestTime": 0.014321
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.852919,
+          "meanTrainScore": 0.991565,
+          "meanFitTime": 0.04989,
+          "meanTestTime": 0.014021
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.665567,
+          "meanTrainScore": 0.950035,
+          "meanFitTime": 0.046751,
+          "meanTestTime": 0.015148
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 15,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.696328,
+          "meanTrainScore": 0.951498,
+          "meanFitTime": 0.040964,
+          "meanTestTime": 0.012528
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.945597,
+          "meanTrainScore": 0.999147,
+          "meanFitTime": 0.3159,
+          "meanTestTime": 0.012118
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.677076,
+          "meanTrainScore": 0.978464,
+          "meanFitTime": 0.07405,
+          "meanTestTime": 0.013465
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 15,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.699436,
+          "meanTrainScore": 0.980011,
+          "meanFitTime": 0.103704,
+          "meanTestTime": 0.01281
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.867312,
+          "meanTrainScore": 0.993459,
+          "meanFitTime": 0.058245,
+          "meanTestTime": 0.014207
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.669775,
+          "meanTrainScore": 0.965698,
+          "meanFitTime": 0.041664,
+          "meanTestTime": 0.01365
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 15,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.664269,
+          "meanTrainScore": 0.96532,
+          "meanFitTime": 0.04232,
+          "meanTestTime": 0.013295
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.855893,
+          "meanTrainScore": 0.996116,
+          "meanFitTime": 0.044919,
+          "meanTestTime": 0.011833
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.660243,
+          "meanTrainScore": 0.961737,
+          "meanFitTime": 0.03921,
+          "meanTestTime": 0.012804
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 15,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.641967,
+          "meanTrainScore": 0.96006,
+          "meanFitTime": 0.043254,
+          "meanTestTime": 0.012835
+        }
+      ]
+    }
+  ],
+  "Occitanie": [
+    {
+      "bestIndex": 0,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.862554,
+          "meanTrainScore": 0.909229,
+          "meanFitTime": 0.174389,
+          "meanTestTime": 0.017595
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.723391,
+          "meanTrainScore": 0.811244,
+          "meanFitTime": 0.044146,
+          "meanTestTime": 0.013758
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 17,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.761245,
+          "meanTrainScore": 0.83812,
+          "meanFitTime": 0.069209,
+          "meanTestTime": 0.014315
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.825806,
+          "meanTrainScore": 0.874569,
+          "meanFitTime": 0.047946,
+          "meanTestTime": 0.01344
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.718622,
+          "meanTrainScore": 0.789285,
+          "meanFitTime": 0.038451,
+          "meanTestTime": 0.013218
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 17,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.713098,
+          "meanTrainScore": 0.775085,
+          "meanFitTime": 0.048974,
+          "meanTestTime": 0.021329
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.832743,
+          "meanTrainScore": 0.867742,
+          "meanFitTime": 0.045829,
+          "meanTestTime": 0.01412
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.697861,
+          "meanTrainScore": 0.790341,
+          "meanFitTime": 0.041259,
+          "meanTestTime": 0.015121
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 17,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.7457,
+          "meanTrainScore": 0.778957,
+          "meanFitTime": 0.048226,
+          "meanTestTime": 0.018329
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.851051,
+          "meanTrainScore": 0.987152,
+          "meanFitTime": 0.40477,
+          "meanTestTime": 0.024955
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.66607,
+          "meanTrainScore": 0.937842,
+          "meanFitTime": 0.065213,
+          "meanTestTime": 0.013007
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 17,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.684434,
+          "meanTrainScore": 0.956936,
+          "meanFitTime": 0.096322,
+          "meanTestTime": 0.014942
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.798922,
+          "meanTrainScore": 0.971181,
+          "meanFitTime": 0.059452,
+          "meanTestTime": 0.014433
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.60485,
+          "meanTrainScore": 0.919143,
+          "meanFitTime": 0.042029,
+          "meanTestTime": 0.018289
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 17,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.702633,
+          "meanTrainScore": 0.933756,
+          "meanFitTime": 0.063493,
+          "meanTestTime": 0.019987
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.79609,
+          "meanTrainScore": 0.968333,
+          "meanFitTime": 0.05924,
+          "meanTestTime": 0.015686
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.66859,
+          "meanTrainScore": 0.909598,
+          "meanFitTime": 0.060544,
+          "meanTestTime": 0.020448
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 17,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.695352,
+          "meanTrainScore": 0.931937,
+          "meanFitTime": 0.086396,
+          "meanTestTime": 0.025976
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.843187,
+          "meanTrainScore": 0.9935,
+          "meanFitTime": 0.469663,
+          "meanTestTime": 0.014984
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.65292,
+          "meanTrainScore": 0.963413,
+          "meanFitTime": 0.131733,
+          "meanTestTime": 0.028288
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 17,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.679196,
+          "meanTrainScore": 0.976121,
+          "meanFitTime": 0.141021,
+          "meanTestTime": 0.014913
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.786746,
+          "meanTrainScore": 0.989354,
+          "meanFitTime": 0.088813,
+          "meanTestTime": 0.015549
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.637687,
+          "meanTrainScore": 0.943407,
+          "meanFitTime": 0.042268,
+          "meanTestTime": 0.013705
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 17,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.673371,
+          "meanTrainScore": 0.952273,
+          "meanFitTime": 0.060746,
+          "meanTestTime": 0.022408
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.813813,
+          "meanTrainScore": 0.985682,
+          "meanFitTime": 0.065654,
+          "meanTestTime": 0.018766
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.63342,
+          "meanTrainScore": 0.942561,
+          "meanFitTime": 0.054867,
+          "meanTestTime": 0.023238
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 17,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.668806,
+          "meanTrainScore": 0.959721,
+          "meanFitTime": 0.053001,
+          "meanTestTime": 0.018682
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.846718,
+          "meanTrainScore": 0.996877,
+          "meanFitTime": 0.38011,
+          "meanTestTime": 0.012311
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.628774,
+          "meanTrainScore": 0.978781,
+          "meanFitTime": 0.087089,
+          "meanTestTime": 0.01741
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 17,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.662297,
+          "meanTrainScore": 0.986658,
+          "meanFitTime": 0.124211,
+          "meanTestTime": 0.021219
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.793463,
+          "meanTrainScore": 0.992624,
+          "meanFitTime": 0.067624,
+          "meanTestTime": 0.014481
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.566585,
+          "meanTrainScore": 0.96213,
+          "meanFitTime": 0.048365,
+          "meanTestTime": 0.01693
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 17,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.683966,
+          "meanTrainScore": 0.971444,
+          "meanFitTime": 0.052764,
+          "meanTestTime": 0.016526
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.793149,
+          "meanTrainScore": 0.989346,
+          "meanFitTime": 0.054598,
+          "meanTestTime": 0.014007
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.626664,
+          "meanTrainScore": 0.960321,
+          "meanFitTime": 0.048264,
+          "meanTestTime": 0.014632
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 17,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.723247,
+          "meanTrainScore": 0.970979,
+          "meanFitTime": 0.048232,
+          "meanTestTime": 0.013499
+        }
+      ]
+    },
+    {
+      "bestIndex": 9,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.944321,
+          "meanTrainScore": 0.96146,
+          "meanFitTime": 0.185417,
+          "meanTestTime": 0.015848
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.731132,
+          "meanTrainScore": 0.811765,
+          "meanFitTime": 0.048639,
+          "meanTestTime": 0.012957
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 17,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.75797,
+          "meanTrainScore": 0.839092,
+          "meanFitTime": 0.06183,
+          "meanTestTime": 0.017398
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.877437,
+          "meanTrainScore": 0.908161,
+          "meanFitTime": 0.056362,
+          "meanTestTime": 0.015482
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.683768,
+          "meanTrainScore": 0.78795,
+          "meanFitTime": 0.039282,
+          "meanTestTime": 0.013675
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 17,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.696927,
+          "meanTrainScore": 0.763162,
+          "meanFitTime": 0.037406,
+          "meanTestTime": 0.014478
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.836861,
+          "meanTrainScore": 0.872129,
+          "meanFitTime": 0.03929,
+          "meanTestTime": 0.012934
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.669394,
+          "meanTrainScore": 0.769641,
+          "meanFitTime": 0.035335,
+          "meanTestTime": 0.015654
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 17,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.706746,
+          "meanTrainScore": 0.761663,
+          "meanFitTime": 0.037964,
+          "meanTestTime": 0.014109
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.956161,
+          "meanTrainScore": 0.996761,
+          "meanFitTime": 0.320857,
+          "meanTestTime": 0.015181
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.700726,
+          "meanTrainScore": 0.937452,
+          "meanFitTime": 0.065508,
+          "meanTestTime": 0.014328
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 17,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.693179,
+          "meanTrainScore": 0.955569,
+          "meanFitTime": 0.096357,
+          "meanTestTime": 0.013619
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.88587,
+          "meanTrainScore": 0.98629,
+          "meanFitTime": 0.055559,
+          "meanTestTime": 0.014659
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.677326,
+          "meanTrainScore": 0.904496,
+          "meanFitTime": 0.039594,
+          "meanTestTime": 0.013412
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 17,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.693529,
+          "meanTrainScore": 0.929619,
+          "meanFitTime": 0.046626,
+          "meanTestTime": 0.014886
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.877283,
+          "meanTrainScore": 0.979382,
+          "meanFitTime": 0.044956,
+          "meanTestTime": 0.014759
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.662506,
+          "meanTrainScore": 0.911303,
+          "meanFitTime": 0.0413,
+          "meanTestTime": 0.012582
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 17,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.714666,
+          "meanTrainScore": 0.925979,
+          "meanFitTime": 0.047585,
+          "meanTestTime": 0.020755
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.953717,
+          "meanTrainScore": 0.998789,
+          "meanFitTime": 0.408761,
+          "meanTestTime": 0.018316
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.68101,
+          "meanTrainScore": 0.965307,
+          "meanFitTime": 0.064751,
+          "meanTestTime": 0.019418
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 17,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.679921,
+          "meanTrainScore": 0.975047,
+          "meanFitTime": 0.112159,
+          "meanTestTime": 0.016222
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.88642,
+          "meanTrainScore": 0.993278,
+          "meanFitTime": 0.066089,
+          "meanTestTime": 0.016404
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.647352,
+          "meanTrainScore": 0.946943,
+          "meanFitTime": 0.048082,
+          "meanTestTime": 0.01417
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 17,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.695605,
+          "meanTrainScore": 0.956104,
+          "meanFitTime": 0.059197,
+          "meanTestTime": 0.013934
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.864206,
+          "meanTrainScore": 0.990998,
+          "meanFitTime": 0.051442,
+          "meanTestTime": 0.017081
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.621703,
+          "meanTrainScore": 0.947683,
+          "meanFitTime": 0.048407,
+          "meanTestTime": 0.01686
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 17,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.680634,
+          "meanTrainScore": 0.961204,
+          "meanFitTime": 0.049084,
+          "meanTestTime": 0.013133
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.953338,
+          "meanTrainScore": 0.999618,
+          "meanFitTime": 0.36487,
+          "meanTestTime": 0.012863
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.664176,
+          "meanTrainScore": 0.980661,
+          "meanFitTime": 0.073001,
+          "meanTestTime": 0.012469
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 17,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.669343,
+          "meanTrainScore": 0.986423,
+          "meanFitTime": 0.111638,
+          "meanTestTime": 0.013455
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.874284,
+          "meanTrainScore": 0.997461,
+          "meanFitTime": 0.064256,
+          "meanTestTime": 0.01381
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.61606,
+          "meanTrainScore": 0.965614,
+          "meanFitTime": 0.044644,
+          "meanTestTime": 0.013441
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 17,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.654098,
+          "meanTrainScore": 0.970576,
+          "meanFitTime": 0.052742,
+          "meanTestTime": 0.015272
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.859212,
+          "meanTrainScore": 0.994406,
+          "meanFitTime": 0.050255,
+          "meanTestTime": 0.015158
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.640189,
+          "meanTrainScore": 0.968058,
+          "meanFitTime": 0.04363,
+          "meanTestTime": 0.013507
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 17,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.701281,
+          "meanTrainScore": 0.974004,
+          "meanFitTime": 0.056129,
+          "meanTestTime": 0.016563
+        }
+      ]
+    }
+  ],
+  "PACA": [
+    {
+      "bestIndex": 27,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.814373,
+          "meanTrainScore": 0.905124,
+          "meanFitTime": 0.08741,
+          "meanTestTime": 0.013806
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.74344,
+          "meanTrainScore": 0.834161,
+          "meanFitTime": 0.027864,
+          "meanTestTime": 0.012529
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.779217,
+          "meanTrainScore": 0.85142,
+          "meanFitTime": 0.053201,
+          "meanTestTime": 0.013305
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.795502,
+          "meanTrainScore": 0.882592,
+          "meanFitTime": 0.03282,
+          "meanTestTime": 0.013427
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.730215,
+          "meanTrainScore": 0.816852,
+          "meanFitTime": 0.02724,
+          "meanTestTime": 0.016838
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.701524,
+          "meanTrainScore": 0.7676,
+          "meanFitTime": 0.030878,
+          "meanTestTime": 0.014004
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.7819,
+          "meanTrainScore": 0.876057,
+          "meanFitTime": 0.030206,
+          "meanTestTime": 0.018802
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.728327,
+          "meanTrainScore": 0.813295,
+          "meanFitTime": 0.02838,
+          "meanTestTime": 0.012994
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.72415,
+          "meanTrainScore": 0.812941,
+          "meanFitTime": 0.028312,
+          "meanTestTime": 0.01468
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.829667,
+          "meanTrainScore": 0.983095,
+          "meanFitTime": 0.163694,
+          "meanTestTime": 0.016982
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.681649,
+          "meanTrainScore": 0.933685,
+          "meanFitTime": 0.041881,
+          "meanTestTime": 0.013783
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.722017,
+          "meanTrainScore": 0.959133,
+          "meanFitTime": 0.059631,
+          "meanTestTime": 0.012019
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.793023,
+          "meanTrainScore": 0.969883,
+          "meanFitTime": 0.041042,
+          "meanTestTime": 0.015336
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.67353,
+          "meanTrainScore": 0.912289,
+          "meanFitTime": 0.030427,
+          "meanTestTime": 0.01368
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.709294,
+          "meanTrainScore": 0.950993,
+          "meanFitTime": 0.04717,
+          "meanTestTime": 0.015842
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.752221,
+          "meanTrainScore": 0.973202,
+          "meanFitTime": 0.046676,
+          "meanTestTime": 0.013873
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.67134,
+          "meanTrainScore": 0.924581,
+          "meanFitTime": 0.039106,
+          "meanTestTime": 0.01534
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.719518,
+          "meanTrainScore": 0.951161,
+          "meanFitTime": 0.034662,
+          "meanTestTime": 0.019074
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.827554,
+          "meanTrainScore": 0.991111,
+          "meanFitTime": 0.185192,
+          "meanTestTime": 0.012609
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.648102,
+          "meanTrainScore": 0.96016,
+          "meanFitTime": 0.046037,
+          "meanTestTime": 0.013544
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.707973,
+          "meanTrainScore": 0.977372,
+          "meanFitTime": 0.06405,
+          "meanTestTime": 0.014617
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.769931,
+          "meanTrainScore": 0.984686,
+          "meanFitTime": 0.048582,
+          "meanTestTime": 0.015209
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.661501,
+          "meanTrainScore": 0.946596,
+          "meanFitTime": 0.036783,
+          "meanTestTime": 0.014618
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.670737,
+          "meanTrainScore": 0.961669,
+          "meanFitTime": 0.039979,
+          "meanTestTime": 0.013429
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.779851,
+          "meanTrainScore": 0.983618,
+          "meanFitTime": 0.039148,
+          "meanTestTime": 0.012498
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.647962,
+          "meanTrainScore": 0.937337,
+          "meanFitTime": 0.029319,
+          "meanTestTime": 0.013164
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.685837,
+          "meanTrainScore": 0.956946,
+          "meanFitTime": 0.034784,
+          "meanTestTime": 0.017831
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.834808,
+          "meanTrainScore": 0.995284,
+          "meanFitTime": 0.181958,
+          "meanTestTime": 0.014619
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.640358,
+          "meanTrainScore": 0.976862,
+          "meanFitTime": 0.057609,
+          "meanTestTime": 0.014284
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.695639,
+          "meanTrainScore": 0.98788,
+          "meanFitTime": 0.069077,
+          "meanTestTime": 0.015491
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.765498,
+          "meanTrainScore": 0.990435,
+          "meanFitTime": 0.043819,
+          "meanTestTime": 0.013089
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.622986,
+          "meanTrainScore": 0.966575,
+          "meanFitTime": 0.033067,
+          "meanTestTime": 0.013356
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.668416,
+          "meanTrainScore": 0.97551,
+          "meanFitTime": 0.041386,
+          "meanTestTime": 0.015509
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.780329,
+          "meanTrainScore": 0.992162,
+          "meanFitTime": 0.040558,
+          "meanTestTime": 0.012772
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.594352,
+          "meanTrainScore": 0.96459,
+          "meanFitTime": 0.03102,
+          "meanTestTime": 0.019736
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 0
+          },
+          "meanTestScore": 0.644542,
+          "meanTrainScore": 0.980568,
+          "meanFitTime": 0.036283,
+          "meanTestTime": 0.014859
+        }
+      ]
+    },
+    {
+      "bestIndex": 9,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.948575,
+          "meanTrainScore": 0.965789,
+          "meanFitTime": 0.105178,
+          "meanTestTime": 0.013663
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.746429,
+          "meanTrainScore": 0.833638,
+          "meanFitTime": 0.029739,
+          "meanTestTime": 0.012141
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.779384,
+          "meanTrainScore": 0.8555,
+          "meanFitTime": 0.044815,
+          "meanTestTime": 0.014786
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.886564,
+          "meanTrainScore": 0.928623,
+          "meanFitTime": 0.037529,
+          "meanTestTime": 0.01812
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.723356,
+          "meanTrainScore": 0.817843,
+          "meanFitTime": 0.029902,
+          "meanTestTime": 0.013154
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.684594,
+          "meanTrainScore": 0.76831,
+          "meanFitTime": 0.02915,
+          "meanTestTime": 0.014472
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.808663,
+          "meanTrainScore": 0.888217,
+          "meanFitTime": 0.033609,
+          "meanTestTime": 0.012484
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.73178,
+          "meanTrainScore": 0.819275,
+          "meanFitTime": 0.029338,
+          "meanTestTime": 0.015505
+        },
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.677529,
+          "meanTrainScore": 0.785458,
+          "meanFitTime": 0.032837,
+          "meanTestTime": 0.013136
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.954581,
+          "meanTrainScore": 0.997036,
+          "meanFitTime": 0.172383,
+          "meanTestTime": 0.013753
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.644141,
+          "meanTrainScore": 0.932025,
+          "meanFitTime": 0.048166,
+          "meanTestTime": 0.01405
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.710449,
+          "meanTrainScore": 0.965946,
+          "meanFitTime": 0.067484,
+          "meanTestTime": 0.014616
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.893959,
+          "meanTrainScore": 0.987023,
+          "meanFitTime": 0.043863,
+          "meanTestTime": 0.015832
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.674774,
+          "meanTrainScore": 0.919872,
+          "meanFitTime": 0.033305,
+          "meanTestTime": 0.014354
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.739679,
+          "meanTrainScore": 0.945166,
+          "meanFitTime": 0.036407,
+          "meanTestTime": 0.013757
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.9139,
+          "meanTrainScore": 0.987431,
+          "meanFitTime": 0.036725,
+          "meanTestTime": 0.01285
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.680608,
+          "meanTrainScore": 0.914944,
+          "meanFitTime": 0.033947,
+          "meanTestTime": 0.013606
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.72762,
+          "meanTrainScore": 0.953717,
+          "meanFitTime": 0.038764,
+          "meanTestTime": 0.015631
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.953117,
+          "meanTrainScore": 0.998942,
+          "meanFitTime": 0.194709,
+          "meanTestTime": 0.01311
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.615207,
+          "meanTrainScore": 0.957223,
+          "meanFitTime": 0.048267,
+          "meanTestTime": 0.01725
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.722651,
+          "meanTrainScore": 0.9802,
+          "meanFitTime": 0.069178,
+          "meanTestTime": 0.016759
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.902177,
+          "meanTrainScore": 0.994594,
+          "meanFitTime": 0.048268,
+          "meanTestTime": 0.012033
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.665995,
+          "meanTrainScore": 0.95006,
+          "meanFitTime": 0.032766,
+          "meanTestTime": 0.013278
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.716756,
+          "meanTrainScore": 0.955226,
+          "meanFitTime": 0.038544,
+          "meanTestTime": 0.014343
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.884712,
+          "meanTrainScore": 0.993964,
+          "meanFitTime": 0.04302,
+          "meanTestTime": 0.019552
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.666761,
+          "meanTrainScore": 0.946836,
+          "meanFitTime": 0.031273,
+          "meanTestTime": 0.012998
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.711638,
+          "meanTrainScore": 0.967458,
+          "meanFitTime": 0.03547,
+          "meanTestTime": 0.01387
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.95351,
+          "meanTrainScore": 0.999645,
+          "meanFitTime": 0.190524,
+          "meanTestTime": 0.013332
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.59748,
+          "meanTrainScore": 0.97318,
+          "meanFitTime": 0.047624,
+          "meanTestTime": 0.014524
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.710872,
+          "meanTrainScore": 0.988117,
+          "meanFitTime": 0.069904,
+          "meanTestTime": 0.014247
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.903925,
+          "meanTrainScore": 0.99828,
+          "meanFitTime": 0.044317,
+          "meanTestTime": 0.015118
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.596611,
+          "meanTrainScore": 0.95347,
+          "meanFitTime": 0.033623,
+          "meanTestTime": 0.012317
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "sqrt",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.676546,
+          "meanTrainScore": 0.979058,
+          "meanFitTime": 0.037396,
+          "meanTestTime": 0.01424
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": -1,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.89774,
+          "meanTrainScore": 0.996911,
+          "meanFitTime": 0.044529,
+          "meanTestTime": 0.011989
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 5,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.643001,
+          "meanTrainScore": 0.963118,
+          "meanFitTime": 0.034744,
+          "meanTestTime": 0.015131
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": "log2",
+            "pca__nComp": 9,
+            "nbLstCons": 3
+          },
+          "meanTestScore": 0.711483,
+          "meanTrainScore": 0.973434,
+          "meanFitTime": 0.037633,
+          "meanTestTime": 0.013112
+        }
+      ]
+    }
+  ]
+}

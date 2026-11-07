@@ -1,0 +1,332 @@
+{
+  "Auvergne-Rhône-Alpes": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.927076,
+          "meanTrainScore": 0.946842,
+          "meanFitTime": 0.206212,
+          "meanTestTime": 0.011439
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.949591,
+          "meanTrainScore": 0.995531,
+          "meanFitTime": 0.339731,
+          "meanTestTime": 0.0162
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.944969,
+          "meanTrainScore": 0.998536,
+          "meanFitTime": 0.360223,
+          "meanTestTime": 0.012581
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.945341,
+          "meanTrainScore": 0.999537,
+          "meanFitTime": 0.360568,
+          "meanTestTime": 0.010848
+        }
+      ]
+    }
+  ],
+  "Bretagne": [
+    {
+      "bestIndex": 2,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.925817,
+          "meanTrainScore": 0.947773,
+          "meanFitTime": 0.087695,
+          "meanTestTime": 0.016683
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.938133,
+          "meanTrainScore": 0.995142,
+          "meanFitTime": 0.14766,
+          "meanTestTime": 0.016801
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.939646,
+          "meanTrainScore": 0.997967,
+          "meanFitTime": 0.176758,
+          "meanTestTime": 0.011775
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.934297,
+          "meanTrainScore": 0.999268,
+          "meanFitTime": 0.172352,
+          "meanTestTime": 0.013912
+        }
+      ]
+    }
+  ],
+  "Grand Est": [
+    {
+      "bestIndex": 2,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.892683,
+          "meanTrainScore": 0.92961,
+          "meanFitTime": 0.188839,
+          "meanTestTime": 0.014937
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.905712,
+          "meanTrainScore": 0.993845,
+          "meanFitTime": 0.330409,
+          "meanTestTime": 0.012159
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.908013,
+          "meanTrainScore": 0.997549,
+          "meanFitTime": 0.342079,
+          "meanTestTime": 0.019288
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.905832,
+          "meanTrainScore": 0.999293,
+          "meanFitTime": 0.337257,
+          "meanTestTime": 0.012215
+        }
+      ]
+    }
+  ],
+  "Ile-de-France": [
+    {
+      "bestIndex": 2,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.940114,
+          "meanTrainScore": 0.957029,
+          "meanFitTime": 0.133481,
+          "meanTestTime": 0.020873
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.950932,
+          "meanTrainScore": 0.997251,
+          "meanFitTime": 0.26101,
+          "meanTestTime": 0.032577
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.952415,
+          "meanTrainScore": 0.99912,
+          "meanFitTime": 0.283974,
+          "meanTestTime": 0.015387
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.949302,
+          "meanTrainScore": 0.999716,
+          "meanFitTime": 0.281644,
+          "meanTestTime": 0.012331
+        }
+      ]
+    }
+  ],
+  "Normandie": [
+    {
+      "bestIndex": 2,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.9233,
+          "meanTrainScore": 0.950476,
+          "meanFitTime": 0.094179,
+          "meanTestTime": 0.014336
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.932512,
+          "meanTrainScore": 0.997075,
+          "meanFitTime": 0.164893,
+          "meanTestTime": 0.01552
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.933233,
+          "meanTrainScore": 0.999238,
+          "meanFitTime": 0.191783,
+          "meanTestTime": 0.015039
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.929094,
+          "meanTrainScore": 0.999833,
+          "meanFitTime": 0.196518,
+          "meanTestTime": 0.012377
+        }
+      ]
+    }
+  ],
+  "Pays de la Loire": [
+    {
+      "bestIndex": 1,
+      "allResults": [
+        {
+          "params": {
+            "decTree__max_depth": 5,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.925855,
+          "meanTrainScore": 0.941929,
+          "meanFitTime": 0.095906,
+          "meanTestTime": 0.015787
+        },
+        {
+          "params": {
+            "decTree__max_depth": 11,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.944109,
+          "meanTrainScore": 0.993962,
+          "meanFitTime": 0.1711,
+          "meanTestTime": 0.012892
+        },
+        {
+          "params": {
+            "decTree__max_depth": 13,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.937999,
+          "meanTrainScore": 0.997685,
+          "meanFitTime": 0.188539,
+          "meanTestTime": 0.014467
+        },
+        {
+          "params": {
+            "decTree__max_depth": 15,
+            "decTree__max_features": null,
+            "pca__nComp": -1,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.930823,
+          "meanTrainScore": 0.999335,
+          "meanFitTime": 0.190023,
+          "meanTestTime": 0.011629
+        }
+      ]
+    }
+  ]
+}

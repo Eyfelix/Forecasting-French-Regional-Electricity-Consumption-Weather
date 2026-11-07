@@ -1,0 +1,1340 @@
+{
+  "Auvergne-Rhône-Alpes": [
+    {
+      "bestIndex": 5,
+      "allResults": [
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.926674,
+          "meanTrainScore": 0.980134,
+          "meanFitTime": 7.490124,
+          "meanTestTime": 0.043776
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 41,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.928696,
+          "meanTrainScore": 0.981319,
+          "meanFitTime": 9.243052,
+          "meanTestTime": 0.036323
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.928072,
+          "meanTrainScore": 0.980462,
+          "meanFitTime": 14.294862,
+          "meanTestTime": 0.056251
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 41,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.929377,
+          "meanTrainScore": 0.981965,
+          "meanFitTime": 17.946333,
+          "meanTestTime": 0.057876
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.928148,
+          "meanTrainScore": 0.980998,
+          "meanFitTime": 21.358719,
+          "meanTestTime": 0.08855
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 41,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.930958,
+          "meanTrainScore": 0.982128,
+          "meanFitTime": 26.77831,
+          "meanTestTime": 0.089443
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.925368,
+          "meanTrainScore": 0.997436,
+          "meanFitTime": 10.2897,
+          "meanTestTime": 0.038459
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 41,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.922175,
+          "meanTrainScore": 0.997617,
+          "meanFitTime": 12.902718,
+          "meanTestTime": 0.03738
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.925348,
+          "meanTrainScore": 0.997581,
+          "meanFitTime": 20.525396,
+          "meanTestTime": 0.068643
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 41,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.924611,
+          "meanTrainScore": 0.997793,
+          "meanFitTime": 25.148933,
+          "meanTestTime": 0.065874
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.927271,
+          "meanTrainScore": 0.997681,
+          "meanFitTime": 30.44464,
+          "meanTestTime": 0.108213
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 41,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.92764,
+          "meanTrainScore": 0.997855,
+          "meanFitTime": 37.46376,
+          "meanTestTime": 0.097749
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.925562,
+          "meanTrainScore": 0.999563,
+          "meanFitTime": 11.497595,
+          "meanTestTime": 0.044215
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 41,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.925658,
+          "meanTrainScore": 0.999616,
+          "meanFitTime": 13.861109,
+          "meanTestTime": 0.041264
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.927115,
+          "meanTrainScore": 0.999614,
+          "meanFitTime": 22.249716,
+          "meanTestTime": 0.070624
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 41,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.925348,
+          "meanTrainScore": 0.999631,
+          "meanFitTime": 27.449106,
+          "meanTestTime": 0.070382
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.92598,
+          "meanTrainScore": 0.999625,
+          "meanFitTime": 32.798184,
+          "meanTestTime": 0.089987
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 41,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.926696,
+          "meanTrainScore": 0.999641,
+          "meanFitTime": 36.375257,
+          "meanTestTime": 0.070691
+        }
+      ]
+    }
+  ],
+  "Bretagne": [
+    {
+      "bestIndex": 17,
+      "allResults": [
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.952588,
+          "meanTrainScore": 0.986815,
+          "meanFitTime": 4.083489,
+          "meanTestTime": 0.035014
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 21,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.953505,
+          "meanTrainScore": 0.987566,
+          "meanFitTime": 4.55944,
+          "meanTestTime": 0.033662
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.952287,
+          "meanTrainScore": 0.987259,
+          "meanFitTime": 7.726329,
+          "meanTestTime": 0.058385
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 21,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.953618,
+          "meanTrainScore": 0.987555,
+          "meanFitTime": 8.686629,
+          "meanTestTime": 0.064306
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.952518,
+          "meanTrainScore": 0.987432,
+          "meanFitTime": 11.418975,
+          "meanTestTime": 0.07787
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 21,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.953547,
+          "meanTrainScore": 0.987906,
+          "meanFitTime": 12.852856,
+          "meanTestTime": 0.086701
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.955408,
+          "meanTrainScore": 0.998133,
+          "meanFitTime": 5.778668,
+          "meanTestTime": 0.037801
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 21,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.956282,
+          "meanTrainScore": 0.99828,
+          "meanFitTime": 6.341443,
+          "meanTestTime": 0.036364
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.956202,
+          "meanTrainScore": 0.998287,
+          "meanFitTime": 11.280575,
+          "meanTestTime": 0.062691
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 21,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.957038,
+          "meanTrainScore": 0.998378,
+          "meanFitTime": 12.496843,
+          "meanTestTime": 0.06091
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.956165,
+          "meanTrainScore": 0.998354,
+          "meanFitTime": 16.813324,
+          "meanTestTime": 0.095955
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 21,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.957173,
+          "meanTrainScore": 0.99838,
+          "meanFitTime": 18.268696,
+          "meanTestTime": 0.085521
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.95468,
+          "meanTrainScore": 0.999505,
+          "meanFitTime": 6.367936,
+          "meanTestTime": 0.036965
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 21,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.956513,
+          "meanTrainScore": 0.999511,
+          "meanFitTime": 7.061042,
+          "meanTestTime": 0.03856
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.954588,
+          "meanTrainScore": 0.999519,
+          "meanFitTime": 12.776971,
+          "meanTestTime": 0.065433
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 21,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.956788,
+          "meanTrainScore": 0.999531,
+          "meanFitTime": 14.041604,
+          "meanTestTime": 0.063309
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.955882,
+          "meanTrainScore": 0.999503,
+          "meanFitTime": 19.029713,
+          "meanTestTime": 0.092584
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 21,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.957211,
+          "meanTrainScore": 0.999545,
+          "meanFitTime": 20.533238,
+          "meanTestTime": 0.079053
+        }
+      ]
+    }
+  ],
+  "Grand Est": [
+    {
+      "bestIndex": 5,
+      "allResults": [
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 27,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.922561,
+          "meanTrainScore": 0.974994,
+          "meanFitTime": 5.960351,
+          "meanTestTime": 0.038886
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.922641,
+          "meanTrainScore": 0.976449,
+          "meanFitTime": 7.294481,
+          "meanTestTime": 0.037702
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 27,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.921341,
+          "meanTrainScore": 0.975518,
+          "meanFitTime": 11.619285,
+          "meanTestTime": 0.060349
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.925122,
+          "meanTrainScore": 0.976627,
+          "meanFitTime": 14.259594,
+          "meanTestTime": 0.05808
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 27,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.92435,
+          "meanTrainScore": 0.975757,
+          "meanFitTime": 16.352456,
+          "meanTestTime": 0.077309
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.92518,
+          "meanTrainScore": 0.977066,
+          "meanFitTime": 19.621309,
+          "meanTestTime": 0.081045
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 27,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.915564,
+          "meanTrainScore": 0.996431,
+          "meanFitTime": 7.663589,
+          "meanTestTime": 0.033785
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.917723,
+          "meanTrainScore": 0.996724,
+          "meanFitTime": 9.336863,
+          "meanTestTime": 0.036069
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 27,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.918723,
+          "meanTrainScore": 0.996715,
+          "meanFitTime": 15.146091,
+          "meanTestTime": 0.062821
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.91617,
+          "meanTrainScore": 0.996906,
+          "meanFitTime": 18.391025,
+          "meanTestTime": 0.059106
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 27,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.919941,
+          "meanTrainScore": 0.996887,
+          "meanFitTime": 22.741628,
+          "meanTestTime": 0.081364
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.916875,
+          "meanTrainScore": 0.997075,
+          "meanFitTime": 27.536085,
+          "meanTestTime": 0.085361
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 27,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.91292,
+          "meanTrainScore": 0.999435,
+          "meanFitTime": 8.781341,
+          "meanTestTime": 0.036899
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.915254,
+          "meanTrainScore": 0.999542,
+          "meanFitTime": 10.550099,
+          "meanTestTime": 0.03806
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 27,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.915123,
+          "meanTrainScore": 0.999506,
+          "meanFitTime": 17.388849,
+          "meanTestTime": 0.062402
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.91708,
+          "meanTrainScore": 0.99957,
+          "meanFitTime": 21.054883,
+          "meanTestTime": 0.066075
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 27,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.917158,
+          "meanTrainScore": 0.99953,
+          "meanFitTime": 25.770224,
+          "meanTestTime": 0.091224
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 33,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.917278,
+          "meanTrainScore": 0.999593,
+          "meanFitTime": 28.758187,
+          "meanTestTime": 0.07031
+        }
+      ]
+    }
+  ],
+  "Ile-de-France": [
+    {
+      "bestIndex": 4,
+      "allResults": [
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.958942,
+          "meanTrainScore": 0.988556,
+          "meanFitTime": 4.001573,
+          "meanTestTime": 0.036151
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 25,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.958616,
+          "meanTrainScore": 0.989054,
+          "meanFitTime": 5.204509,
+          "meanTestTime": 0.034137
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.958604,
+          "meanTrainScore": 0.989129,
+          "meanFitTime": 7.506442,
+          "meanTestTime": 0.054208
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 25,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.958469,
+          "meanTrainScore": 0.989595,
+          "meanFitTime": 9.913992,
+          "meanTestTime": 0.055879
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.959741,
+          "meanTrainScore": 0.989198,
+          "meanFitTime": 10.937583,
+          "meanTestTime": 0.072415
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 25,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.958709,
+          "meanTrainScore": 0.989741,
+          "meanFitTime": 14.576228,
+          "meanTestTime": 0.075709
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.953977,
+          "meanTrainScore": 0.998176,
+          "meanFitTime": 5.814583,
+          "meanTestTime": 0.035369
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 25,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.954025,
+          "meanTrainScore": 0.998281,
+          "meanFitTime": 7.743764,
+          "meanTestTime": 0.03732
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.955102,
+          "meanTrainScore": 0.998292,
+          "meanFitTime": 12.032825,
+          "meanTestTime": 0.05908
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 25,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.954814,
+          "meanTrainScore": 0.99842,
+          "meanFitTime": 15.187139,
+          "meanTestTime": 0.062775
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.954889,
+          "meanTrainScore": 0.998338,
+          "meanFitTime": 17.134115,
+          "meanTestTime": 0.108136
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 25,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.955293,
+          "meanTrainScore": 0.998455,
+          "meanFitTime": 22.562227,
+          "meanTestTime": 0.085699
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.953466,
+          "meanTrainScore": 0.999851,
+          "meanFitTime": 6.817248,
+          "meanTestTime": 0.038663
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 25,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.953909,
+          "meanTrainScore": 0.999864,
+          "meanFitTime": 8.635998,
+          "meanTestTime": 0.038956
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.954884,
+          "meanTrainScore": 0.999862,
+          "meanFitTime": 13.330766,
+          "meanTestTime": 0.068049
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 25,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.955109,
+          "meanTrainScore": 0.999887,
+          "meanFitTime": 17.496578,
+          "meanTestTime": 0.080312
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.9549,
+          "meanTrainScore": 0.999868,
+          "meanFitTime": 20.275786,
+          "meanTestTime": 0.091537
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 25,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.954257,
+          "meanTrainScore": 0.999889,
+          "meanFitTime": 23.620833,
+          "meanTestTime": 0.08262
+        }
+      ]
+    }
+  ],
+  "Normandie": [
+    {
+      "bestIndex": 3,
+      "allResults": [
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.949222,
+          "meanTrainScore": 0.987876,
+          "meanFitTime": 4.080682,
+          "meanTestTime": 0.034063
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.949592,
+          "meanTrainScore": 0.988556,
+          "meanFitTime": 4.889887,
+          "meanTestTime": 0.034909
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.949802,
+          "meanTrainScore": 0.988391,
+          "meanFitTime": 7.912368,
+          "meanTestTime": 0.060997
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.95062,
+          "meanTrainScore": 0.988935,
+          "meanFitTime": 9.621193,
+          "meanTestTime": 0.055431
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.950037,
+          "meanTrainScore": 0.988585,
+          "meanFitTime": 11.506834,
+          "meanTestTime": 0.074937
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.950437,
+          "meanTrainScore": 0.989127,
+          "meanFitTime": 13.760786,
+          "meanTestTime": 0.076346
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.945846,
+          "meanTrainScore": 0.998198,
+          "meanFitTime": 5.810711,
+          "meanTestTime": 0.032744
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.947177,
+          "meanTrainScore": 0.998319,
+          "meanFitTime": 7.00874,
+          "meanTestTime": 0.036943
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.947231,
+          "meanTrainScore": 0.998302,
+          "meanFitTime": 11.679492,
+          "meanTestTime": 0.062225
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.947724,
+          "meanTrainScore": 0.998446,
+          "meanFitTime": 13.95598,
+          "meanTestTime": 0.060287
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.947271,
+          "meanTrainScore": 0.998322,
+          "meanFitTime": 17.226711,
+          "meanTestTime": 0.07961
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.94794,
+          "meanTrainScore": 0.998479,
+          "meanFitTime": 20.70391,
+          "meanTestTime": 0.093454
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.946662,
+          "meanTrainScore": 0.99976,
+          "meanFitTime": 6.715346,
+          "meanTestTime": 0.045892
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.946204,
+          "meanTrainScore": 0.999788,
+          "meanFitTime": 8.008782,
+          "meanTestTime": 0.039259
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.945826,
+          "meanTrainScore": 0.9998,
+          "meanFitTime": 13.749983,
+          "meanTestTime": 0.085325
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.947501,
+          "meanTrainScore": 0.999827,
+          "meanFitTime": 16.47469,
+          "meanTestTime": 0.066245
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.946347,
+          "meanTrainScore": 0.999817,
+          "meanFitTime": 20.112766,
+          "meanTestTime": 0.090766
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.947369,
+          "meanTrainScore": 0.999829,
+          "meanFitTime": 22.532213,
+          "meanTestTime": 0.07317
+        }
+      ]
+    }
+  ],
+  "Pays de la Loire": [
+    {
+      "bestIndex": 4,
+      "allResults": [
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.959536,
+          "meanTrainScore": 0.985309,
+          "meanFitTime": 4.028541,
+          "meanTestTime": 0.033557
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.959866,
+          "meanTrainScore": 0.985899,
+          "meanFitTime": 4.911481,
+          "meanTestTime": 0.035041
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.958657,
+          "meanTrainScore": 0.985499,
+          "meanFitTime": 7.944732,
+          "meanTestTime": 0.057467
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.959358,
+          "meanTrainScore": 0.986633,
+          "meanFitTime": 9.616719,
+          "meanTestTime": 0.07741
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.960096,
+          "meanTrainScore": 0.985656,
+          "meanFitTime": 11.305643,
+          "meanTestTime": 0.072013
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 7,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.959673,
+          "meanTrainScore": 0.986578,
+          "meanFitTime": 13.553769,
+          "meanTestTime": 0.077033
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.958412,
+          "meanTrainScore": 0.997592,
+          "meanFitTime": 5.530554,
+          "meanTestTime": 0.03375
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.957639,
+          "meanTrainScore": 0.997739,
+          "meanFitTime": 6.660277,
+          "meanTestTime": 0.033783
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.95767,
+          "meanTrainScore": 0.997731,
+          "meanFitTime": 10.496346,
+          "meanTestTime": 0.056341
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.957436,
+          "meanTrainScore": 0.997874,
+          "meanFitTime": 12.58729,
+          "meanTestTime": 0.056799
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.957932,
+          "meanTrainScore": 0.997763,
+          "meanFitTime": 15.660405,
+          "meanTestTime": 0.080286
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 10,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.958326,
+          "meanTrainScore": 0.997939,
+          "meanFitTime": 18.920473,
+          "meanTestTime": 0.080533
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.957825,
+          "meanTrainScore": 0.999492,
+          "meanFitTime": 6.18045,
+          "meanTestTime": 0.036438
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 100,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.956443,
+          "meanTrainScore": 0.999508,
+          "meanFitTime": 7.377196,
+          "meanTestTime": 0.038991
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.95798,
+          "meanTrainScore": 0.999523,
+          "meanFitTime": 12.226625,
+          "meanTestTime": 0.062046
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 200,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.956876,
+          "meanTrainScore": 0.999517,
+          "meanFitTime": 14.551901,
+          "meanTestTime": 0.06048
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 19,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.95791,
+          "meanTrainScore": 0.999532,
+          "meanFitTime": 17.907185,
+          "meanTestTime": 0.07999
+        },
+        {
+          "params": {
+            "AdaBoostTree__estimator__max_depth": 13,
+            "AdaBoostTree__n_estimators": 300,
+            "pca__nComp": 23,
+            "nbLstCons": 9
+          },
+          "meanTestScore": 0.956984,
+          "meanTrainScore": 0.999542,
+          "meanFitTime": 19.632577,
+          "meanTestTime": 0.066103
+        }
+      ]
+    }
+  ]
+}

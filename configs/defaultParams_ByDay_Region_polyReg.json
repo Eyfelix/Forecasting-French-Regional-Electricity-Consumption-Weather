@@ -1,0 +1,62 @@
+{
+  "Auvergne-Rhône-Alpes": {
+    "pca__nComp": -1,
+    "poly__degree": 2,
+    "nbLstCons": 3
+  },
+  "Bourgogne-Franche-Comté": {
+    "pca__nComp": -1,
+    "poly__degree": 2,
+    "nbLstCons": 3
+  },
+  "Bretagne": {
+    "pca__nComp": -1,
+    "poly__degree": 2,
+    "nbLstCons": 3
+  },
+  "Centre-Val de Loire": {
+    "pca__nComp": -1,
+    "poly__degree": 2,
+    "nbLstCons": 3
+  },
+  "Grand Est": {
+    "pca__nComp": -1,
+    "poly__degree": 2,
+    "nbLstCons": 3
+  },
+  "Hauts-de-France": {
+    "pca__nComp": -1,
+    "poly__degree": 2,
+    "nbLstCons": 3
+  },
+  "Ile-de-France": {
+    "pca__nComp": 11,
+    "poly__degree": 3,
+    "nbLstCons": 3
+  },
+  "Nouvelle-Aquitaine": {
+    "pca__nComp": -1,
+    "poly__degree": 2,
+    "nbLstCons": 3
+  },
+  "Normandie": {
+    "pca__nComp": -1,
+    "poly__degree": 2,
+    "nbLstCons": 3
+  },
+  "Occitanie": {
+    "pca__nComp": -1,
+    "poly__degree": 2,
+    "nbLstCons": 3
+  },
+  "Pays de la Loire": {
+    "pca__nComp": -1,
+    "poly__degree": 2,
+    "nbLstCons": 3
+  },
+  "PACA": {
+    "pca__nComp": -1,
+    "poly__degree": 2,
+    "nbLstCons": 3
+  }
+}
